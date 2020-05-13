@@ -1,0 +1,3297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="2" title="ricciCurvature" type="double" />
+      <attribute id="3" title="original_RC" type="double" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="value" type="string" />
+      <attribute id="1" title="ricciCurvature" type="double" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>05/12/2017</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1000 Years for Revenge" label="1000 Years for Revenge">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.008925238541352853" />
+        </attvalues>
+      </node>
+      <node id="Bush vs. the Beltway" label="Bush vs. the Beltway">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.009957436595039004" />
+        </attvalues>
+      </node>
+      <node id="Charlie Wilson's War" label="Charlie Wilson's War">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.007346237859846894" />
+        </attvalues>
+      </node>
+      <node id="Losing Bin Laden" label="Losing Bin Laden">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022431830645068422" />
+        </attvalues>
+      </node>
+      <node id="Sleeping With the Devil" label="Sleeping With the Devil">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.012012788417975345" />
+        </attvalues>
+      </node>
+      <node id="The Man Who Warned America" label="The Man Who Warned America">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.008945218323229412" />
+        </attvalues>
+      </node>
+      <node id="Why America Slept" label="Why America Slept">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.01201104025642316" />
+        </attvalues>
+      </node>
+      <node id="Ghost Wars" label="Ghost Wars">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.013844776755606386" />
+        </attvalues>
+      </node>
+      <node id="A National Party No More" label="A National Party No More">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022918861264301215" />
+        </attvalues>
+      </node>
+      <node id="Bush Country" label="Bush Country">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.02292166394724862" />
+        </attvalues>
+      </node>
+      <node id="Dereliction of Duty" label="Dereliction of Duty">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.02696171724697122" />
+        </attvalues>
+      </node>
+      <node id="Legacy" label="Legacy">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022438916346049664" />
+        </attvalues>
+      </node>
+      <node id="Off with Their Heads" label="Off with Their Heads">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.023162922855501877" />
+        </attvalues>
+      </node>
+      <node id="Persecution" label="Persecution">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022378730302030466" />
+        </attvalues>
+      </node>
+      <node id="Rumsfeld's War" label="Rumsfeld's War">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022079484388114936" />
+        </attvalues>
+      </node>
+      <node id="Breakdown" label="Breakdown">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.07910776184671767" />
+        </attvalues>
+      </node>
+      <node id="Betrayal" label="Betrayal">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.06840880323808873" />
+        </attvalues>
+      </node>
+      <node id="Shut Up and Sing" label="Shut Up and Sing">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.02230238669065283" />
+        </attvalues>
+      </node>
+      <node id="Meant To Be" label="Meant To Be">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.021371100137046684" />
+        </attvalues>
+      </node>
+      <node id="The Right Man" label="The Right Man">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.05029980071957385" />
+        </attvalues>
+      </node>
+      <node id="Ten Minutes from Normal" label="Ten Minutes from Normal">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.023706063723616454" />
+        </attvalues>
+      </node>
+      <node id="Hillary's Scheme" label="Hillary's Scheme">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.0232585084207634" />
+        </attvalues>
+      </node>
+      <node id="The French Betrayal of America" label="The French Betrayal of America">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.021977393877548806" />
+        </attvalues>
+      </node>
+      <node id="Tales from the Left Coast" label="Tales from the Left Coast">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022782800381545294" />
+        </attvalues>
+      </node>
+      <node id="Hating America" label="Hating America">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.02239754886122484" />
+        </attvalues>
+      </node>
+      <node id="The Third Terrorist" label="The Third Terrorist">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.021873923370051118" />
+        </attvalues>
+      </node>
+      <node id="Endgame" label="Endgame">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022402367508075807" />
+        </attvalues>
+      </node>
+      <node id="Spin Sisters" label="Spin Sisters">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022369396161416127" />
+        </attvalues>
+      </node>
+      <node id="All the Shah's Men" label="All the Shah's Men">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.022171771133148905" />
+        </attvalues>
+      </node>
+      <node id="Dangerous Dimplomacy" label="Dangerous Dimplomacy">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.013232356897011244" />
+        </attvalues>
+      </node>
+      <node id="The Price of Loyalty" label="The Price of Loyalty">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022758909921252735" />
+        </attvalues>
+      </node>
+      <node id="House of Bush, House of Saud" label="House of Bush, House of Saud">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022553547588214574" />
+        </attvalues>
+      </node>
+      <node id="The Death of Right and Wrong" label="The Death of Right and Wrong">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.023068364694752264" />
+        </attvalues>
+      </node>
+      <node id="Useful Idiots" label="Useful Idiots">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.026649147402269202" />
+        </attvalues>
+      </node>
+      <node id="The O'Reilly Factor" label="The O'Reilly Factor">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.014959471314415485" />
+        </attvalues>
+      </node>
+      <node id="Let Freedom Ring" label="Let Freedom Ring">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.02330688950993056" />
+        </attvalues>
+      </node>
+      <node id="Those Who Trespass" label="Those Who Trespass">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.020569899469565424" />
+        </attvalues>
+      </node>
+      <node id="Bias" label="Bias">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.024763074421269522" />
+        </attvalues>
+      </node>
+      <node id="Slander" label="Slander">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.023701299778750493" />
+        </attvalues>
+      </node>
+      <node id="The Savage Nation" label="The Savage Nation">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.025008512659546872" />
+        </attvalues>
+      </node>
+      <node id="Deliver Us from Evil" label="Deliver Us from Evil">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022700560687703084" />
+        </attvalues>
+      </node>
+      <node id="Give Me a Break" label="Give Me a Break">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022811598931006788" />
+        </attvalues>
+      </node>
+      <node id="The Enemy Within" label="The Enemy Within">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022848319929212806" />
+        </attvalues>
+      </node>
+      <node id="The Real America" label="The Real America">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.0229541601113334" />
+        </attvalues>
+      </node>
+      <node id="Who's Looking Out for You?" label="Who's Looking Out for You?">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.023028074938098265" />
+        </attvalues>
+      </node>
+      <node id="The Official Handbook Vast Right Wing Conspiracy" label="The Official Handbook Vast Right Wing Conspiracy">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022389186756233508" />
+        </attvalues>
+      </node>
+      <node id="Power Plays" label="Power Plays">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.021336877772302643" />
+        </attvalues>
+      </node>
+      <node id="Arrogance" label="Arrogance">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.02293710853268665" />
+        </attvalues>
+      </node>
+      <node id="The Perfect Wife" label="The Perfect Wife">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.10580258239859675" />
+        </attvalues>
+      </node>
+      <node id="The Bushes" label="The Bushes">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.06212692513681828" />
+        </attvalues>
+      </node>
+      <node id="Things Worth Fighting For" label="Things Worth Fighting For">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022321152789055443" />
+        </attvalues>
+      </node>
+      <node id="Surprise, Security, the American Experience" label="Surprise, Security, the American Experience">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.017019061230840293" />
+        </attvalues>
+      </node>
+      <node id="Allies" label="Allies">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.01850055851174921" />
+        </attvalues>
+      </node>
+      <node id="Why Courage Matters" label="Why Courage Matters">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022724556915586593" />
+        </attvalues>
+      </node>
+      <node id="Hollywood Interrupted" label="Hollywood Interrupted">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022334390117720277" />
+        </attvalues>
+      </node>
+      <node id="Fighting Back" label="Fighting Back">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.09282344366804957" />
+        </attvalues>
+      </node>
+      <node id="We Will Prevail" label="We Will Prevail">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.023964131480864792" />
+        </attvalues>
+      </node>
+      <node id="The Faith of George W Bush" label="The Faith of George W Bush">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.08994814843489714" />
+        </attvalues>
+      </node>
+      <node id="Rise of the Vulcans" label="Rise of the Vulcans">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.017737832400377185" />
+        </attvalues>
+      </node>
+      <node id="Downsize This!" label="Downsize This!">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.108714934415808" />
+        </attvalues>
+      </node>
+      <node id="Stupid White Men" label="Stupid White Men">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.09224618610792683" />
+        </attvalues>
+      </node>
+      <node id="Rush Limbaugh Is a Big Fat Idiot" label="Rush Limbaugh Is a Big Fat Idiot">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.05440632053234645" />
+        </attvalues>
+      </node>
+      <node id="The Best Democracy Money Can Buy" label="The Best Democracy Money Can Buy">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.09228806711886972" />
+        </attvalues>
+      </node>
+      <node id="The Culture of Fear" label="The Culture of Fear">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.12495930931455207" />
+        </attvalues>
+      </node>
+      <node id="America Unbound" label="America Unbound">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.017664116560180028" />
+        </attvalues>
+      </node>
+      <node id="The Choice" label="The Choice">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.0160165001239355" />
+        </attvalues>
+      </node>
+      <node id="The Great Unraveling" label="The Great Unraveling">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022990045585940158" />
+        </attvalues>
+      </node>
+      <node id="Rogue Nation" label="Rogue Nation">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.018299592428211553" />
+        </attvalues>
+      </node>
+      <node id="Soft Power" label="Soft Power">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.01793871289489818" />
+        </attvalues>
+      </node>
+      <node id="Colossus" label="Colossus">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.01605784628121736" />
+        </attvalues>
+      </node>
+      <node id="The Sorrows of Empire" label="The Sorrows of Empire">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02295881838222637" />
+        </attvalues>
+      </node>
+      <node id="Against All Enemies" label="Against All Enemies">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022766092783680136" />
+        </attvalues>
+      </node>
+      <node id="American Dynasty" label="American Dynasty">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022826715961744026" />
+        </attvalues>
+      </node>
+      <node id="Big Lies" label="Big Lies">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.023321667522370533" />
+        </attvalues>
+      </node>
+      <node id="The Lies of George W. Bush" label="The Lies of George W. Bush">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022895614619413432" />
+        </attvalues>
+      </node>
+      <node id="Worse Than Watergate" label="Worse Than Watergate">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022845181952536472" />
+        </attvalues>
+      </node>
+      <node id="Plan of Attack" label="Plan of Attack">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.022839164247946526" />
+        </attvalues>
+      </node>
+      <node id="Bush at War" label="Bush at War">
+        <attvalues>
+          <attvalue for="0" value="c" />
+          <attvalue for="1" value="-0.022759044328742335" />
+        </attvalues>
+      </node>
+      <node id="The New Pearl Harbor" label="The New Pearl Harbor">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02284677110454312" />
+        </attvalues>
+      </node>
+      <node id="Bushwomen" label="Bushwomen">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02284213985239042" />
+        </attvalues>
+      </node>
+      <node id="The Bubble of American Supremacy" label="The Bubble of American Supremacy">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022841402394164267" />
+        </attvalues>
+      </node>
+      <node id="Living History" label="Living History">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022829331424517263" />
+        </attvalues>
+      </node>
+      <node id="The Politics of Truth" label="The Politics of Truth">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022843322429907928" />
+        </attvalues>
+      </node>
+      <node id="Fanatics and Fools" label="Fanatics and Fools">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02283927900425789" />
+        </attvalues>
+      </node>
+      <node id="Bushwhacked" label="Bushwhacked">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.023354026026893425" />
+        </attvalues>
+      </node>
+      <node id="Disarming Iraq" label="Disarming Iraq">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.018352131806459983" />
+        </attvalues>
+      </node>
+      <node id="Lies and the Lying Liars Who Tell Them" label="Lies and the Lying Liars Who Tell Them">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02355912000955954" />
+        </attvalues>
+      </node>
+      <node id="MoveOn's 50 Ways to Love Your Country" label="MoveOn's 50 Ways to Love Your Country">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02284254369848071" />
+        </attvalues>
+      </node>
+      <node id="The Buying of the President 2004" label="The Buying of the President 2004">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02283879030966198" />
+        </attvalues>
+      </node>
+      <node id="Perfectly Legal" label="Perfectly Legal">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022832063008545678" />
+        </attvalues>
+      </node>
+      <node id="Hegemony or Survival" label="Hegemony or Survival">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.0230109016724227" />
+        </attvalues>
+      </node>
+      <node id="The Exception to the Rulers" label="The Exception to the Rulers">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022843986263857252" />
+        </attvalues>
+      </node>
+      <node id="Freethinkers" label="Freethinkers">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02284074108207738" />
+        </attvalues>
+      </node>
+      <node id="Had Enough?" label="Had Enough?">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02429003081472422" />
+        </attvalues>
+      </node>
+      <node id="It's Still the Economy, Stupid!" label="It's Still the Economy, Stupid!">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.04486485231207823" />
+        </attvalues>
+      </node>
+      <node id="We're Right They're Wrong" label="We're Right They're Wrong">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.06551567376779494" />
+        </attvalues>
+      </node>
+      <node id="What Liberal Media?" label="What Liberal Media?">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.023635764125066405" />
+        </attvalues>
+      </node>
+      <node id="The Clinton Wars" label="The Clinton Wars">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.022823709836829315" />
+        </attvalues>
+      </node>
+      <node id="Weapons of Mass Deception" label="Weapons of Mass Deception">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02283903858118417" />
+        </attvalues>
+      </node>
+      <node id="Dude, Where's My Country?" label="Dude, Where's My Country?">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.05571454130797946" />
+        </attvalues>
+      </node>
+      <node id="Thieves in High Places" label="Thieves in High Places">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.02339581383760588" />
+        </attvalues>
+      </node>
+      <node id="Shrub" label="Shrub">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.049722193460969955" />
+        </attvalues>
+      </node>
+      <node id="Buck Up Suck Up" label="Buck Up Suck Up">
+        <attvalues>
+          <attvalue for="0" value="l" />
+          <attvalue for="1" value="-0.04514515899909605" />
+        </attvalues>
+      </node>
+      <node id="The Future of Freedom" label="The Future of Freedom">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.0156436018067726" />
+        </attvalues>
+      </node>
+      <node id="Empire" label="Empire">
+        <attvalues>
+          <attvalue for="0" value="n" />
+          <attvalue for="1" value="-0.016272109925730065" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1000 Years for Revenge" target="Bush vs. the Beltway" weight="0.017556876597098106">
+        <attvalues>
+          <attvalue for="2" value="-0.006624651578117424" />
+          <attvalue for="3" value="0.3748211488720904" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="1000 Years for Revenge" target="Charlie Wilson's War" weight="0.020650872376607933">
+        <attvalues>
+          <attvalue for="2" value="-0.006865862577198678" />
+          <attvalue for="3" value="0.2498882373070208" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="1000 Years for Revenge" target="Losing Bin Laden" weight="3.9592396005084898">
+        <attvalues>
+          <attvalue for="2" value="-0.019822957793570906" />
+          <attvalue for="3" value="-0.2793306109781759" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="1000 Years for Revenge" target="Sleeping With the Devil" weight="0.020128932382588928">
+        <attvalues>
+          <attvalue for="2" value="-0.006608248735877398" />
+          <attvalue for="3" value="-0.020969594997335417" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="1000 Years for Revenge" target="The Man Who Warned America" weight="0.018660236100353358">
+        <attvalues>
+          <attvalue for="2" value="-0.006866406999458841" />
+          <attvalue for="3" value="0.4638422779173085" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="1000 Years for Revenge" target="Why America Slept" weight="0.021193447561542803">
+        <attvalues>
+          <attvalue for="2" value="-0.006763303563893874" />
+          <attvalue for="3" value="0.08317448167169039" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Bush vs. the Beltway" target="Losing Bin Laden" weight="3.955681477614911">
+        <attvalues>
+          <attvalue for="2" value="-0.01983546594002239" />
+          <attvalue for="3" value="-0.13595652402864689" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Bush vs. the Beltway" target="The Man Who Warned America" weight="0.018855588366393977">
+        <attvalues>
+          <attvalue for="2" value="-0.006709792504100642" />
+          <attvalue for="3" value="0.3034570954269902" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Bush vs. the Beltway" target="Why America Slept" weight="0.019507590250819964">
+        <attvalues>
+          <attvalue for="2" value="-0.006659836357915561" />
+          <attvalue for="3" value="0.11348746032145951" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Charlie Wilson's War" target="Sleeping With the Devil" weight="0.021623847109819027">
+        <attvalues>
+          <attvalue for="2" value="-0.006812308834696301" />
+          <attvalue for="3" value="0.12491036904782771" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Charlie Wilson's War" target="The Man Who Warned America" weight="0.01944347065791673">
+        <attvalues>
+          <attvalue for="2" value="-0.007083097603324928" />
+          <attvalue for="3" value="0.321136448586137" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Charlie Wilson's War" target="Ghost Wars" weight="0.020302462807483095">
+        <attvalues>
+          <attvalue for="2" value="-0.008623682424167667" />
+          <attvalue for="3" value="-0.006610242858300586" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Losing Bin Laden" target="The Man Who Warned America" weight="3.95866477116845">
+        <attvalues>
+          <attvalue for="2" value="-0.019825416461911383" />
+          <attvalue for="3" value="-0.2774582322050043" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Losing Bin Laden" target="A National Party No More" weight="0.24882277565319358">
+        <attvalues>
+          <attvalue for="2" value="-0.022391650757651815" />
+          <attvalue for="3" value="0.04835284477600332" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Losing Bin Laden" target="Bush Country" weight="0.257567192492539">
+        <attvalues>
+          <attvalue for="2" value="-0.022383185516658077" />
+          <attvalue for="3" value="-0.08860405961770979" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Losing Bin Laden" target="Dereliction of Duty" weight="2.652491203364409">
+        <attvalues>
+          <attvalue for="2" value="-0.027042664771168567" />
+          <attvalue for="3" value="-0.030573038679934994" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Losing Bin Laden" target="Legacy" weight="0.22997322245005647">
+        <attvalues>
+          <attvalue for="2" value="-0.022540241171026043" />
+          <attvalue for="3" value="0.1287013601049405" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Losing Bin Laden" target="Off with Their Heads" weight="0.2558432439415578">
+        <attvalues>
+          <attvalue for="2" value="-0.022297972190318704" />
+          <attvalue for="3" value="0.06291008739934667" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Losing Bin Laden" target="Persecution" weight="0.3250401568853759">
+        <attvalues>
+          <attvalue for="2" value="-0.022198983675586925" />
+          <attvalue for="3" value="-0.0908125036439178" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Losing Bin Laden" target="Rumsfeld's War" weight="0.21243919163705982">
+        <attvalues>
+          <attvalue for="2" value="-0.022469451287068454" />
+          <attvalue for="3" value="0.03382307915756144" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Losing Bin Laden" target="Breakdown" weight="4.5449586217701095">
+        <attvalues>
+          <attvalue for="2" value="-0.024265594390160405" />
+          <attvalue for="3" value="-0.06825101502197839" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Losing Bin Laden" target="Betrayal" weight="4.539632561257303">
+        <attvalues>
+          <attvalue for="2" value="-0.02405335321698554" />
+          <attvalue for="3" value="-0.09428095967863159" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Losing Bin Laden" target="Shut Up and Sing" weight="0.2576724695075298">
+        <attvalues>
+          <attvalue for="2" value="-0.022275254487202023" />
+          <attvalue for="3" value="0.0494546987944805" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Losing Bin Laden" target="Meant To Be" weight="0.24008033114300945">
+        <attvalues>
+          <attvalue for="2" value="-0.02222024993249283" />
+          <attvalue for="3" value="0.02882103536657976" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Losing Bin Laden" target="The Right Man" weight="4.54403522249443">
+        <attvalues>
+          <attvalue for="2" value="-0.024159824246201556" />
+          <attvalue for="3" value="-0.2615819120278826" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Losing Bin Laden" target="Ten Minutes from Normal" weight="0.2707641253951471">
+        <attvalues>
+          <attvalue for="2" value="-0.022300130084045078" />
+          <attvalue for="3" value="-0.15290457144303704" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Losing Bin Laden" target="Hillary's Scheme" weight="0.24508287027061723">
+        <attvalues>
+          <attvalue for="2" value="-0.02207925645323683" />
+          <attvalue for="3" value="0.08152577384328841" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Losing Bin Laden" target="The French Betrayal of America" weight="0.24487281595572402">
+        <attvalues>
+          <attvalue for="2" value="-0.022306180923079122" />
+          <attvalue for="3" value="0.02089843660886559" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Losing Bin Laden" target="Tales from the Left Coast" weight="0.2879856335795114">
+        <attvalues>
+          <attvalue for="2" value="-0.02220411724325877" />
+          <attvalue for="3" value="-0.039217048390868925" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Losing Bin Laden" target="Hating America" weight="0.2638689537428715">
+        <attvalues>
+          <attvalue for="2" value="-0.022333869854489707" />
+          <attvalue for="3" value="0.0007225694616638245" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Losing Bin Laden" target="The Third Terrorist" weight="0.2621829423720721">
+        <attvalues>
+          <attvalue for="2" value="-0.022256739008393422" />
+          <attvalue for="3" value="0.02504093410816899" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Losing Bin Laden" target="Endgame" weight="0.2676655888987324">
+        <attvalues>
+          <attvalue for="2" value="-0.022363616683551468" />
+          <attvalue for="3" value="-0.055783009521002125" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Losing Bin Laden" target="Spin Sisters" weight="0.27676034465316524">
+        <attvalues>
+          <attvalue for="2" value="-0.022305928748493686" />
+          <attvalue for="3" value="-0.03427788956508948" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Sleeping With the Devil" target="The Man Who Warned America" weight="0.021599195126995877">
+        <attvalues>
+          <attvalue for="2" value="-0.006699482990529582" />
+          <attvalue for="3" value="0.053250164782618015" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Sleeping With the Devil" target="Why America Slept" weight="0.02166746423300126">
+        <attvalues>
+          <attvalue for="2" value="-0.0068428308006216465" />
+          <attvalue for="3" value="-0.1877195702978074" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Sleeping With the Devil" target="All the Shah's Men" weight="5.529700373881525">
+        <attvalues>
+          <attvalue for="2" value="-0.020836512097330617" />
+          <attvalue for="3" value="-0.35418038679144703" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Sleeping With the Devil" target="Dangerous Dimplomacy" weight="0.019075815945766485">
+        <attvalues>
+          <attvalue for="2" value="-0.006620414499702187" />
+          <attvalue for="3" value="-0.25006306374398535" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Sleeping With the Devil" target="The Price of Loyalty" weight="5.450691594527313">
+        <attvalues>
+          <attvalue for="2" value="-0.020848924938885016" />
+          <attvalue for="3" value="-0.5125372360555207" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Sleeping With the Devil" target="House of Bush, House of Saud" weight="5.406105852197649">
+        <attvalues>
+          <attvalue for="2" value="-0.020833584446160014" />
+          <attvalue for="3" value="-0.5511497034006734" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="The Man Who Warned America" target="Why America Slept" weight="0.021044174455781422">
+        <attvalues>
+          <attvalue for="2" value="-0.006899913363823895" />
+          <attvalue for="3" value="0.07127023669706356" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="The Man Who Warned America" target="Ghost Wars" weight="0.01982771428418533">
+        <attvalues>
+          <attvalue for="2" value="-0.008532418339456616" />
+          <attvalue for="3" value="-0.07153134763682933" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Why America Slept" target="Ghost Wars" weight="0.023638621015680584">
+        <attvalues>
+          <attvalue for="2" value="-0.008108077768827604" />
+          <attvalue for="3" value="-0.21064176536947143" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Why America Slept" target="Dereliction of Duty" weight="3.5917214026360424">
+        <attvalues>
+          <attvalue for="2" value="-0.011072626710714628" />
+          <attvalue for="3" value="-0.30172401072259736" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Why America Slept" target="Off with Their Heads" weight="4.016699786815052">
+        <attvalues>
+          <attvalue for="2" value="-0.01984431870534098" />
+          <attvalue for="3" value="-0.27682091749280113" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Why America Slept" target="Meant To Be" weight="3.8574160143956173">
+        <attvalues>
+          <attvalue for="2" value="-0.019761830892742527" />
+          <attvalue for="3" value="0.06050792277022676" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Why America Slept" target="The French Betrayal of America" weight="3.9113808969351527">
+        <attvalues>
+          <attvalue for="2" value="-0.019790068998934096" />
+          <attvalue for="3" value="-0.0657840370597329" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Why America Slept" target="The Third Terrorist" weight="3.8636560889968883">
+        <attvalues>
+          <attvalue for="2" value="-0.019755678758666573" />
+          <attvalue for="3" value="-0.02744921781673426" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Why America Slept" target="Dangerous Dimplomacy" weight="0.020427927632439984">
+        <attvalues>
+          <attvalue for="2" value="-0.00662295689917336" />
+          <attvalue for="3" value="0.021992446224427198" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Ghost Wars" target="Rumsfeld's War" weight="3.9245843059352947">
+        <attvalues>
+          <attvalue for="2" value="-0.019788745915621186" />
+          <attvalue for="3" value="-0.34726104066243724" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Ghost Wars" target="The Price of Loyalty" weight="5.4570297909498615">
+        <attvalues>
+          <attvalue for="2" value="-0.02083472786838847" />
+          <attvalue for="3" value="-0.4000463977566511" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Ghost Wars" target="Rise of the Vulcans" weight="3.030322341983421">
+        <attvalues>
+          <attvalue for="2" value="-0.012042163513883208" />
+          <attvalue for="3" value="-0.17838642552894024" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Ghost Wars" target="Against All Enemies" weight="5.470849076670713">
+        <attvalues>
+          <attvalue for="2" value="-0.020831696292658908" />
+          <attvalue for="3" value="-0.45837814285408673" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Ghost Wars" target="Disarming Iraq" weight="2.9989743370453708">
+        <attvalues>
+          <attvalue for="2" value="-0.01199670192184743" />
+          <attvalue for="3" value="-0.1375597610221455" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="A National Party No More" target="Bush Country" weight="0.265145672935582">
+        <attvalues>
+          <attvalue for="2" value="-0.022256751786927875" />
+          <attvalue for="3" value="-0.027315681887508658" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="A National Party No More" target="Dereliction of Duty" weight="2.5904826451369423">
+        <attvalues>
+          <attvalue for="2" value="-0.026821053199933997" />
+          <attvalue for="3" value="-0.016974958452766087" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="A National Party No More" target="Legacy" weight="0.23914144803268828">
+        <attvalues>
+          <attvalue for="2" value="-0.02248337675800216" />
+          <attvalue for="3" value="0.16393977054813735" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="A National Party No More" target="Off with Their Heads" weight="0.24096176178635212">
+        <attvalues>
+          <attvalue for="2" value="-0.022438211375087835" />
+          <attvalue for="3" value="0.21759523898114375" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="A National Party No More" target="Persecution" weight="0.26146398740053073">
+        <attvalues>
+          <attvalue for="2" value="-0.022238647070708772" />
+          <attvalue for="3" value="0.06839601851053811" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="A National Party No More" target="Rumsfeld's War" weight="0.2706841861405279">
+        <attvalues>
+          <attvalue for="2" value="-0.022251248740533747" />
+          <attvalue for="3" value="-0.06873032316326588" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="A National Party No More" target="Ten Minutes from Normal" weight="0.28854700666303196">
+        <attvalues>
+          <attvalue for="2" value="-0.022178165301237174" />
+          <attvalue for="3" value="-0.08232906619020408" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="A National Party No More" target="Hillary's Scheme" weight="0.27070034858810876">
+        <attvalues>
+          <attvalue for="2" value="-0.022187116605118185" />
+          <attvalue for="3" value="0.07571763955243749" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="A National Party No More" target="The French Betrayal of America" weight="0.30137669703087205">
+        <attvalues>
+          <attvalue for="2" value="-0.022146154328853473" />
+          <attvalue for="3" value="-0.053259161946225486" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="A National Party No More" target="Tales from the Left Coast" weight="0.27544698591922606">
+        <attvalues>
+          <attvalue for="2" value="-0.022296975033495814" />
+          <attvalue for="3" value="0.09994208168459084" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="A National Party No More" target="Hating America" weight="0.27591435193129116">
+        <attvalues>
+          <attvalue for="2" value="-0.02221253793905298" />
+          <attvalue for="3" value="0.07815311550425708" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="A National Party No More" target="Endgame" weight="0.2769025419762912">
+        <attvalues>
+          <attvalue for="2" value="-0.02220429677336555" />
+          <attvalue for="3" value="0.057093517001131744" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="A National Party No More" target="Spin Sisters" weight="0.26635289246296223">
+        <attvalues>
+          <attvalue for="2" value="-0.022251191771239798" />
+          <attvalue for="3" value="0.08811792969912002" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="A National Party No More" target="The Death of Right and Wrong" weight="0.2687422459379545">
+        <attvalues>
+          <attvalue for="2" value="-0.02216621050681966" />
+          <attvalue for="3" value="0.059080809602263806" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="A National Party No More" target="Useful Idiots" weight="2.584307069662984">
+        <attvalues>
+          <attvalue for="2" value="-0.026377530270857097" />
+          <attvalue for="3" value="0.035996367185433975" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="A National Party No More" target="Let Freedom Ring" weight="2.5929647452240223">
+        <attvalues>
+          <attvalue for="2" value="-0.02623494453286912" />
+          <attvalue for="3" value="-0.1002383159244149" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="A National Party No More" target="Bias" weight="2.5905368273717184">
+        <attvalues>
+          <attvalue for="2" value="-0.026278315530441354" />
+          <attvalue for="3" value="-0.059353137416847224" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="A National Party No More" target="Deliver Us from Evil" weight="0.23881052680594517">
+        <attvalues>
+          <attvalue for="2" value="-0.022477638392057298" />
+          <attvalue for="3" value="0.20485487335925712" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="A National Party No More" target="Give Me a Break" weight="0.2791088560023511">
+        <attvalues>
+          <attvalue for="2" value="-0.02228477160995923" />
+          <attvalue for="3" value="0.028461475949319248" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="A National Party No More" target="The Enemy Within" weight="0.29106861076099877">
+        <attvalues>
+          <attvalue for="2" value="-0.022158095886296802" />
+          <attvalue for="3" value="0.032900330402214406" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="A National Party No More" target="The Real America" weight="0.3829459824037803">
+        <attvalues>
+          <attvalue for="2" value="-0.021997570739043848" />
+          <attvalue for="3" value="-0.08047721542405206" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="A National Party No More" target="Who's Looking Out for You?" weight="0.2568126427783964">
+        <attvalues>
+          <attvalue for="2" value="-0.02224645420248894" />
+          <attvalue for="3" value="0.0961667082979667" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="A National Party No More" target="The Official Handbook Vast Right Wing Conspiracy" weight="0.2599673405099057">
+        <attvalues>
+          <attvalue for="2" value="-0.02223867626954501" />
+          <attvalue for="3" value="0.10831676733017803" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="A National Party No More" target="Power Plays" weight="0.2615095582914317">
+        <attvalues>
+          <attvalue for="2" value="-0.0221539462259428" />
+          <attvalue for="3" value="-0.1900490389462708" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="Bush Country" target="Legacy" weight="0.23148904185002472">
+        <attvalues>
+          <attvalue for="2" value="-0.022412541920966644" />
+          <attvalue for="3" value="0.11025385833363055" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="Bush Country" target="Off with Their Heads" weight="0.2714105363334049">
+        <attvalues>
+          <attvalue for="2" value="-0.022202413041209512" />
+          <attvalue for="3" value="-0.13118054598368012" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Bush Country" target="Rumsfeld's War" weight="0.23900934143914965">
+        <attvalues>
+          <attvalue for="2" value="-0.022425591696215053" />
+          <attvalue for="3" value="0.06629934814168836" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Bush Country" target="Ten Minutes from Normal" weight="0.2287836528640694">
+        <attvalues>
+          <attvalue for="2" value="-0.02244656487278207" />
+          <attvalue for="3" value="0.08642433277694062" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Bush Country" target="Hating America" weight="0.22339034798112925">
+        <attvalues>
+          <attvalue for="2" value="-0.02251216376254872" />
+          <attvalue for="3" value="0.09318196264319911" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Bush Country" target="Spin Sisters" weight="0.2295368155845624">
+        <attvalues>
+          <attvalue for="2" value="-0.02240586384385579" />
+          <attvalue for="3" value="0.030634610417401786" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Bush Country" target="Give Me a Break" weight="0.23683681866826933">
+        <attvalues>
+          <attvalue for="2" value="-0.022315324382205848" />
+          <attvalue for="3" value="-0.0626904900816958" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="Bush Country" target="The Official Handbook Vast Right Wing Conspiracy" weight="0.21382557023586451">
+        <attvalues>
+          <attvalue for="2" value="-0.022496437932680635" />
+          <attvalue for="3" value="0.08287879779623442" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="Bush Country" target="Arrogance" weight="0.2549464375174066">
+        <attvalues>
+          <attvalue for="2" value="-0.022313983587202824" />
+          <attvalue for="3" value="-0.059367426011549984" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="Bush Country" target="The Perfect Wife" weight="3.866772163641517">
+        <attvalues>
+          <attvalue for="2" value="-0.026720438979063843" />
+          <attvalue for="3" value="-0.12539156286545472" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="Bush Country" target="The Bushes" weight="3.8669619952284933">
+        <attvalues>
+          <attvalue for="2" value="-0.02672783966757941" />
+          <attvalue for="3" value="-0.31278670872155745" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="Bush Country" target="Things Worth Fighting For" weight="0.20605142656841352">
+        <attvalues>
+          <attvalue for="2" value="-0.02239098612311019" />
+          <attvalue for="3" value="0.05197109884051687" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="Bush Country" target="Surprise, Security, the American Experience" weight="5.406846423326999">
+        <attvalues>
+          <attvalue for="2" value="-0.022355936199770277" />
+          <attvalue for="3" value="-0.44794081764221483" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="Bush Country" target="Allies" weight="5.392533125046766">
+        <attvalues>
+          <attvalue for="2" value="-0.022380599843201177" />
+          <attvalue for="3" value="-0.18770482247896814" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="Dereliction of Duty" target="Legacy" weight="2.65127163456429">
+        <attvalues>
+          <attvalue for="2" value="-0.027028025774897158" />
+          <attvalue for="3" value="-0.10162088263979285" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="Dereliction of Duty" target="Off with Their Heads" weight="2.586995229417669">
+        <attvalues>
+          <attvalue for="2" value="-0.026818746352712974" />
+          <attvalue for="3" value="0.0838467868431082" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="Dereliction of Duty" target="Breakdown" weight="2.2162511932295748">
+        <attvalues>
+          <attvalue for="2" value="-0.005450911499226052" />
+          <attvalue for="3" value="0.09966197210764105" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="Dereliction of Duty" target="Betrayal" weight="2.211803525361572">
+        <attvalues>
+          <attvalue for="2" value="-0.005075179726097501" />
+          <attvalue for="3" value="0.0639159594774481" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="Dereliction of Duty" target="The Right Man" weight="2.2118117527110708">
+        <attvalues>
+          <attvalue for="2" value="-0.005074925431998167" />
+          <attvalue for="3" value="-0.14120088674736886" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="Dereliction of Duty" target="Hillary's Scheme" weight="2.5115960581110266">
+        <attvalues>
+          <attvalue for="2" value="-0.027588765809719806" />
+          <attvalue for="3" value="0.06438213350295685" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="Dereliction of Duty" target="Useful Idiots" weight="0.041054359421392746">
+        <attvalues>
+          <attvalue for="2" value="-0.050921431668173645" />
+          <attvalue for="3" value="0.10639999313408999" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="Dereliction of Duty" target="Let Freedom Ring" weight="0.050196910785128425">
+        <attvalues>
+          <attvalue for="2" value="-0.043545014323960185" />
+          <attvalue for="3" value="-0.08379291343394901" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="Dereliction of Duty" target="Bias" weight="0.045063448137770266">
+        <attvalues>
+          <attvalue for="2" value="-0.046977986890773815" />
+          <attvalue for="3" value="0.004564820472137576" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="Dereliction of Duty" target="Slander" weight="0.04363141668028157">
+        <attvalues>
+          <attvalue for="2" value="-0.04789458033082572" />
+          <attvalue for="3" value="-0.028660661697089473" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="Dereliction of Duty" target="The Savage Nation" weight="0.044569368321895744">
+        <attvalues>
+          <attvalue for="2" value="-0.047663063853117915" />
+          <attvalue for="3" value="-0.037674573064421235" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="Dereliction of Duty" target="Fighting Back" weight="2.2162552435518945">
+        <attvalues>
+          <attvalue for="2" value="-0.005450782361248185" />
+          <attvalue for="3" value="0.04990453530867367" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="Legacy" target="Off with Their Heads" weight="0.28597677297408775">
+        <attvalues>
+          <attvalue for="2" value="-0.02230547804362537" />
+          <attvalue for="3" value="0.009825632397707063" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="Legacy" target="Persecution" weight="0.3010170129044464">
+        <attvalues>
+          <attvalue for="2" value="-0.022264834467851324" />
+          <attvalue for="3" value="0.06110050072683326" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="Legacy" target="Rumsfeld's War" weight="0.23920817457394544">
+        <attvalues>
+          <attvalue for="2" value="-0.022408411023681296" />
+          <attvalue for="3" value="0.07084017771433815" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="Legacy" target="Shut Up and Sing" weight="0.25043446603266406">
+        <attvalues>
+          <attvalue for="2" value="-0.022298823740253493" />
+          <attvalue for="3" value="0.14679536471583488" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="Legacy" target="Ten Minutes from Normal" weight="0.28116776255878123">
+        <attvalues>
+          <attvalue for="2" value="-0.022310489092210783" />
+          <attvalue for="3" value="-0.028678937166727092" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="Legacy" target="Hillary's Scheme" weight="0.265584988138647">
+        <attvalues>
+          <attvalue for="2" value="-0.02210692569504369" />
+          <attvalue for="3" value="0.04981718305924754" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="Legacy" target="The French Betrayal of America" weight="0.2826227089081986">
+        <attvalues>
+          <attvalue for="2" value="-0.022267388698128388" />
+          <attvalue for="3" value="0.0230772950127055" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="Legacy" target="Endgame" weight="0.2654824058406923">
+        <attvalues>
+          <attvalue for="2" value="-0.022344025459639205" />
+          <attvalue for="3" value="0.10107381575461138" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="Legacy" target="Spin Sisters" weight="0.28353751226667967">
+        <attvalues>
+          <attvalue for="2" value="-0.0223106420720367" />
+          <attvalue for="3" value="0.027075800091836966" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="Legacy" target="Dangerous Dimplomacy" weight="4.021882633225841">
+        <attvalues>
+          <attvalue for="2" value="-0.019823992022837578" />
+          <attvalue for="3" value="-0.195137212273641" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="Legacy" target="The Official Handbook Vast Right Wing Conspiracy" weight="0.24198799400037793">
+        <attvalues>
+          <attvalue for="2" value="-0.02235737623200551" />
+          <attvalue for="3" value="0.1551280625903908" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="Legacy" target="Arrogance" weight="0.265497759276596">
+        <attvalues>
+          <attvalue for="2" value="-0.022441582690695627" />
+          <attvalue for="3" value="0.07658868195385315" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="Legacy" target="Things Worth Fighting For" weight="0.2405486126554267">
+        <attvalues>
+          <attvalue for="2" value="-0.022243151925765092" />
+          <attvalue for="3" value="-0.08382938218812064" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="Legacy" target="We Will Prevail" weight="0.3758698230047668">
+        <attvalues>
+          <attvalue for="2" value="-0.021953187440227895" />
+          <attvalue for="3" value="-0.18074686880051893" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="Off with Their Heads" target="Persecution" weight="0.2617287222383314">
+        <attvalues>
+          <attvalue for="2" value="-0.022170718834159553" />
+          <attvalue for="3" value="0.04362776144305802" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="Off with Their Heads" target="Rumsfeld's War" weight="0.2852609630792177">
+        <attvalues>
+          <attvalue for="2" value="-0.022165940625944236" />
+          <attvalue for="3" value="-0.09903110938659343" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="Off with Their Heads" target="Breakdown" weight="4.539735042449425">
+        <attvalues>
+          <attvalue for="2" value="-0.02451419992945758" />
+          <attvalue for="3" value="-0.08397731682258236" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="Off with Their Heads" target="Shut Up and Sing" weight="0.22990776244280844">
+        <attvalues>
+          <attvalue for="2" value="-0.02223179459120095" />
+          <attvalue for="3" value="0.09324311959828957" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="Off with Their Heads" target="Meant To Be" weight="0.24028480710703265">
+        <attvalues>
+          <attvalue for="2" value="-0.022131219585904693" />
+          <attvalue for="3" value="-0.046850609319627035" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="Off with Their Heads" target="Tales from the Left Coast" weight="0.2502187983114701">
+        <attvalues>
+          <attvalue for="2" value="-0.02230475719887881" />
+          <attvalue for="3" value="0.0964642621699876" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="Off with Their Heads" target="Hating America" weight="0.2917387134389587">
+        <attvalues>
+          <attvalue for="2" value="-0.022138276077325214" />
+          <attvalue for="3" value="-0.020805370211859575" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="Off with Their Heads" target="The Death of Right and Wrong" weight="0.24279950485122773">
+        <attvalues>
+          <attvalue for="2" value="-0.022267815596735963" />
+          <attvalue for="3" value="0.07510622839881065" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="Off with Their Heads" target="Useful Idiots" weight="2.5768051360229975">
+        <attvalues>
+          <attvalue for="2" value="-0.026387967892296915" />
+          <attvalue for="3" value="0.056470566144216416" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="Off with Their Heads" target="Those Who Trespass" weight="2.5993002097784887">
+        <attvalues>
+          <attvalue for="2" value="-0.02611608066940896" />
+          <attvalue for="3" value="-0.08034899980520849" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="Off with Their Heads" target="Slander" weight="2.587627870539589">
+        <attvalues>
+          <attvalue for="2" value="-0.026257128592943157" />
+          <attvalue for="3" value="-0.10898493961759437" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="Off with Their Heads" target="The Savage Nation" weight="2.5844918313998693">
+        <attvalues>
+          <attvalue for="2" value="-0.026282285665593097" />
+          <attvalue for="3" value="-0.04007441023334457" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="Off with Their Heads" target="Deliver Us from Evil" weight="0.2744452878760366">
+        <attvalues>
+          <attvalue for="2" value="-0.022324507578503905" />
+          <attvalue for="3" value="0.04556294607774625" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="Off with Their Heads" target="Give Me a Break" weight="0.24346579102178234">
+        <attvalues>
+          <attvalue for="2" value="-0.022268694924048926" />
+          <attvalue for="3" value="0.06628471593397334" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="Off with Their Heads" target="Who's Looking Out for You?" weight="0.2432916362762637">
+        <attvalues>
+          <attvalue for="2" value="-0.0223300747319799" />
+          <attvalue for="3" value="0.07223330766451064" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="Off with Their Heads" target="Power Plays" weight="0.22829857149162816">
+        <attvalues>
+          <attvalue for="2" value="-0.022137826980717312" />
+          <attvalue for="3" value="-0.1701014312791691" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="Off with Their Heads" target="Arrogance" weight="0.22724465899426638">
+        <attvalues>
+          <attvalue for="2" value="-0.022424354191033835" />
+          <attvalue for="3" value="0.18628762690806666" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="Off with Their Heads" target="Hollywood Interrupted" weight="0.255507392676918">
+        <attvalues>
+          <attvalue for="2" value="-0.022182731105428122" />
+          <attvalue for="3" value="0.04123176094694192" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="Off with Their Heads" target="Fighting Back" weight="4.540417028251025">
+        <attvalues>
+          <attvalue for="2" value="-0.02452955690769043" />
+          <attvalue for="3" value="-0.1308549966729995" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="Persecution" target="Shut Up and Sing" weight="0.21225811971682082">
+        <attvalues>
+          <attvalue for="2" value="-0.02240980712692764" />
+          <attvalue for="3" value="0.18391409228023592" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="Persecution" target="Dangerous Dimplomacy" weight="4.039127290184463">
+        <attvalues>
+          <attvalue for="2" value="-0.01986206416633185" />
+          <attvalue for="3" value="-0.18319936769184308" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="Persecution" target="The Death of Right and Wrong" weight="0.23934318771073834">
+        <attvalues>
+          <attvalue for="2" value="-0.022113281421382247" />
+          <attvalue for="3" value="0.014715917191046923" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="Persecution" target="Deliver Us from Evil" weight="0.30202199842258437">
+        <attvalues>
+          <attvalue for="2" value="-0.022207840922366495" />
+          <attvalue for="3" value="0.043698617335931944" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="Persecution" target="The Enemy Within" weight="0.20397459504556087">
+        <attvalues>
+          <attvalue for="2" value="-0.02228910364375869" />
+          <attvalue for="3" value="0.1323482799012884" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="Persecution" target="The Real America" weight="0.2801058162294475">
+        <attvalues>
+          <attvalue for="2" value="-0.02201878175628469" />
+          <attvalue for="3" value="0.08429242886333288" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="Persecution" target="Who's Looking Out for You?" weight="0.20628790484732937">
+        <attvalues>
+          <attvalue for="2" value="-0.022225548443781218" />
+          <attvalue for="3" value="0.11302379127331874" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="Persecution" target="Arrogance" weight="0.2786200518449786">
+        <attvalues>
+          <attvalue for="2" value="-0.022239302729117227" />
+          <attvalue for="3" value="0.01606128926644168" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="Persecution" target="The Faith of George W Bush" weight="3.8960207809016416">
+        <attvalues>
+          <attvalue for="2" value="-0.02668457966813942" />
+          <attvalue for="3" value="-0.253946819777523" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="Rumsfeld's War" target="The Third Terrorist" weight="0.21627972207178767">
+        <attvalues>
+          <attvalue for="2" value="-0.022399923351257067" />
+          <attvalue for="3" value="0.1436599951698988" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="Rumsfeld's War" target="Endgame" weight="0.22397959665372855">
+        <attvalues>
+          <attvalue for="2" value="-0.02247531436920691" />
+          <attvalue for="3" value="0.05375909073130836" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="Rumsfeld's War" target="Rise of the Vulcans" weight="5.429365143868087">
+        <attvalues>
+          <attvalue for="2" value="-0.022330732483506477" />
+          <attvalue for="3" value="-0.3762723011052671" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="Breakdown" target="Betrayal" weight="0.008930279982986943">
+        <attvalues>
+          <attvalue for="2" value="-0.17609787677118316" />
+          <attvalue for="3" value="0.3997160537278107" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="Breakdown" target="Fighting Back" weight="0.008059898398410209">
+        <attvalues>
+          <attvalue for="2" value="-0.1652102266435611" />
+          <attvalue for="3" value="0.34980915904222376" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="Shut Up and Sing" target="Arrogance" weight="0.23878096618532677">
+        <attvalues>
+          <attvalue for="2" value="-0.022296253507680053" />
+          <attvalue for="3" value="0.11534864828773816" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="The Right Man" target="Fighting Back" weight="0.008929894441806292">
+        <attvalues>
+          <attvalue for="2" value="-0.17610320875969854" />
+          <attvalue for="3" value="0.07415172572076434" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="The Right Man" target="We Will Prevail" weight="4.4715412846529565">
+        <attvalues>
+          <attvalue for="2" value="-0.024726565566836278" />
+          <attvalue for="3" value="-0.2250322891925587" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="The Right Man" target="Bush at War" weight="5.5263263116048496">
+        <attvalues>
+          <attvalue for="2" value="-0.021434479593134714" />
+          <attvalue for="3" value="-0.5858152535921746" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="Ten Minutes from Normal" target="Hating America" weight="0.15758102980279687">
+        <attvalues>
+          <attvalue for="2" value="-0.02269534407275664" />
+          <attvalue for="3" value="0.19856878572100434" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="Ten Minutes from Normal" target="Deliver Us from Evil" weight="0.25885103297255946">
+        <attvalues>
+          <attvalue for="2" value="-0.022325582539794775" />
+          <attvalue for="3" value="-0.05606660682837572" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="Ten Minutes from Normal" target="The Perfect Wife" weight="3.837065606928711">
+        <attvalues>
+          <attvalue for="2" value="-0.026755397484315324" />
+          <attvalue for="3" value="0.09994270145778761" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="Ten Minutes from Normal" target="The Bushes" weight="3.8372779292994017">
+        <attvalues>
+          <attvalue for="2" value="-0.026763814070270397" />
+          <attvalue for="3" value="-0.10026238596367953" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="Ten Minutes from Normal" target="Why Courage Matters" weight="0.17781515720337773">
+        <attvalues>
+          <attvalue for="2" value="-0.022529352328762187" />
+          <attvalue for="3" value="0.13969760272127119" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="Ten Minutes from Normal" target="The Faith of George W Bush" weight="3.8370742787040983">
+        <attvalues>
+          <attvalue for="2" value="-0.02675579738999012" />
+          <attvalue for="3" value="0.09749344298754836" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="Hillary's Scheme" target="Tales from the Left Coast" weight="0.20198610616397586">
+        <attvalues>
+          <attvalue for="2" value="-0.0223304775406985" />
+          <attvalue for="3" value="0.19884228837589524" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="The French Betrayal of America" target="The Third Terrorist" weight="0.12983932456020883">
+        <attvalues>
+          <attvalue for="2" value="-0.022749138535260505" />
+          <attvalue for="3" value="0.3135936316500296" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="The French Betrayal of America" target="Deliver Us from Evil" weight="0.28608571578117575">
+        <attvalues>
+          <attvalue for="2" value="-0.022220010035768567" />
+          <attvalue for="3" value="-0.04918845981002429" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="The French Betrayal of America" target="Allies" weight="5.4466583546406495">
+        <attvalues>
+          <attvalue for="2" value="-0.0223628156228175" />
+          <attvalue for="3" value="-0.25787532860394435" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="Tales from the Left Coast" target="Spin Sisters" weight="0.21172613289077605">
+        <attvalues>
+          <attvalue for="2" value="-0.022304289075011585" />
+          <attvalue for="3" value="0.21344515264731168" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="Tales from the Left Coast" target="The Death of Right and Wrong" weight="0.20812001944623998">
+        <attvalues>
+          <attvalue for="2" value="-0.02226349085312651" />
+          <attvalue for="3" value="0.2436932859997052" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="Tales from the Left Coast" target="Useful Idiots" weight="2.5085899595290857">
+        <attvalues>
+          <attvalue for="2" value="-0.02670568262403661" />
+          <attvalue for="3" value="0.16089627664088957" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="Tales from the Left Coast" target="Arrogance" weight="0.2674848086640641">
+        <attvalues>
+          <attvalue for="2" value="-0.02232535365436461" />
+          <attvalue for="3" value="0.10756568948234979" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="Tales from the Left Coast" target="Hollywood Interrupted" weight="0.21640843760993542">
+        <attvalues>
+          <attvalue for="2" value="-0.02231006021103643" />
+          <attvalue for="3" value="0.16542274794794376" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="Hating America" target="Endgame" weight="0.17994166341473278">
+        <attvalues>
+          <attvalue for="2" value="-0.02261219269632564" />
+          <attvalue for="3" value="0.374500166070986" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="Hating America" target="Deliver Us from Evil" weight="0.23493177975729446">
+        <attvalues>
+          <attvalue for="2" value="-0.022365118435622833" />
+          <attvalue for="3" value="0.1601178192648406" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="Hating America" target="Arrogance" weight="0.27386172287483584">
+        <attvalues>
+          <attvalue for="2" value="-0.022239084695806044" />
+          <attvalue for="3" value="0.07436414171073069" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="Hating America" target="Why Courage Matters" weight="0.17809870112653844">
+        <attvalues>
+          <attvalue for="2" value="-0.022469352217095784" />
+          <attvalue for="3" value="0.1329615740830824" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="The Third Terrorist" target="Deliver Us from Evil" weight="0.31714682472671235">
+        <attvalues>
+          <attvalue for="2" value="-0.022208137196678024" />
+          <attvalue for="3" value="-0.10584381755439787" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="Endgame" target="Deliver Us from Evil" weight="0.2485739640748107">
+        <attvalues>
+          <attvalue for="2" value="-0.022350646411615438" />
+          <attvalue for="3" value="0.1106808684921694" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="Endgame" target="The Official Handbook Vast Right Wing Conspiracy" weight="0.17591529829044278">
+        <attvalues>
+          <attvalue for="2" value="-0.02260602600649131" />
+          <attvalue for="3" value="0.3288089733412416" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="Endgame" target="Arrogance" weight="0.27738732186297305">
+        <attvalues>
+          <attvalue for="2" value="-0.02222301188929454" />
+          <attvalue for="3" value="0.05437660582939974" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="Endgame" target="Why Courage Matters" weight="0.20782099469043583">
+        <attvalues>
+          <attvalue for="2" value="-0.0224421772831922" />
+          <attvalue for="3" value="0.022087678457787696" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="Spin Sisters" target="Deliver Us from Evil" weight="0.2692410629705031">
+        <attvalues>
+          <attvalue for="2" value="-0.022317107550752002" />
+          <attvalue for="3" value="0.08255655021575481" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="Spin Sisters" target="Give Me a Break" weight="0.15998498958315968">
+        <attvalues>
+          <attvalue for="2" value="-0.022542787469294945" />
+          <attvalue for="3" value="0.31719673683265504" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="Spin Sisters" target="Arrogance" weight="0.21898140278287045">
+        <attvalues>
+          <attvalue for="2" value="-0.02233505221519061" />
+          <attvalue for="3" value="0.21274871684235364" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="Spin Sisters" target="Hollywood Interrupted" weight="0.1726491710583958">
+        <attvalues>
+          <attvalue for="2" value="-0.022551702706870014" />
+          <attvalue for="3" value="0.3321206096473509" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="All the Shah's Men" target="The Great Unraveling" weight="0.24056429393540535">
+        <attvalues>
+          <attvalue for="2" value="-0.022834749311092972" />
+          <attvalue for="3" value="-0.07170774745995367" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="All the Shah's Men" target="American Dynasty" weight="0.2541765713617794">
+        <attvalues>
+          <attvalue for="2" value="-0.02284405199102313" />
+          <attvalue for="3" value="-0.09867558310109814" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="The Price of Loyalty" target="House of Bush, House of Saud" weight="0.2455049184692507">
+        <attvalues>
+          <attvalue for="2" value="-0.022840568051134325" />
+          <attvalue for="3" value="0.09442128817999185" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="The Price of Loyalty" target="Rise of the Vulcans" weight="4.900624398990641">
+        <attvalues>
+          <attvalue for="2" value="-0.023663924954826054" />
+          <attvalue for="3" value="-0.39059530863602765" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="The Price of Loyalty" target="The Great Unraveling" weight="0.28158072962184816">
+        <attvalues>
+          <attvalue for="2" value="-0.02283844766045484" />
+          <attvalue for="3" value="0.1445407177387702" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="The Price of Loyalty" target="Rogue Nation" weight="4.946240290147134">
+        <attvalues>
+          <attvalue for="2" value="-0.023600368349408596" />
+          <attvalue for="3" value="-0.38375114345123285" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="The Price of Loyalty" target="The Sorrows of Empire" weight="0.2697334014104724">
+        <attvalues>
+          <attvalue for="2" value="-0.022841121782427143" />
+          <attvalue for="3" value="0.03160970883716374" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="The Price of Loyalty" target="Big Lies" weight="0.2546396159976237">
+        <attvalues>
+          <attvalue for="2" value="-0.022833698569960204" />
+          <attvalue for="3" value="0.0649331098212661" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="The Price of Loyalty" target="The Lies of George W. Bush" weight="0.26005774566837553">
+        <attvalues>
+          <attvalue for="2" value="-0.02284398701094892" />
+          <attvalue for="3" value="0.09504237249686442" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="The Price of Loyalty" target="Worse Than Watergate" weight="0.22771609078263097">
+        <attvalues>
+          <attvalue for="2" value="-0.022841387851123773" />
+          <attvalue for="3" value="0.1661884615160737" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="The Price of Loyalty" target="Plan of Attack" weight="0.19547474732590558">
+        <attvalues>
+          <attvalue for="2" value="-0.022844318176911127" />
+          <attvalue for="3" value="0.14394538557702363" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="The Price of Loyalty" target="Bush at War" weight="0.23392410716752873">
+        <attvalues>
+          <attvalue for="2" value="-0.022838482835828566" />
+          <attvalue for="3" value="-0.014717838510449388" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="The Price of Loyalty" target="Bushwomen" weight="0.25679704389824215">
+        <attvalues>
+          <attvalue for="2" value="-0.02284267618795477" />
+          <attvalue for="3" value="0.048952383888747675" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="The Price of Loyalty" target="The Bubble of American Supremacy" weight="0.2356748869639779">
+        <attvalues>
+          <attvalue for="2" value="-0.022840387400064888" />
+          <attvalue for="3" value="0.07470859535133045" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="The Price of Loyalty" target="The Politics of Truth" weight="0.21034784658728548">
+        <attvalues>
+          <attvalue for="2" value="-0.02284179363818617" />
+          <attvalue for="3" value="0.17774923301872103" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="The Price of Loyalty" target="Fanatics and Fools" weight="0.2440189287505379">
+        <attvalues>
+          <attvalue for="2" value="-0.02284172218573466" />
+          <attvalue for="3" value="0.07407499518677696" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="The Price of Loyalty" target="Bushwhacked" weight="0.2713099759534793">
+        <attvalues>
+          <attvalue for="2" value="-0.022830211651778454" />
+          <attvalue for="3" value="-0.010070658608738459" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="The Price of Loyalty" target="Lies and the Lying Liars Who Tell Them" weight="0.2881562657706699">
+        <attvalues>
+          <attvalue for="2" value="-0.02282064635939207" />
+          <attvalue for="3" value="-0.06781408893746699" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="The Price of Loyalty" target="Had Enough?" weight="0.2494021727508455">
+        <attvalues>
+          <attvalue for="2" value="-0.022775687792510713" />
+          <attvalue for="3" value="-0.08288222362244757" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="The Price of Loyalty" target="Dude, Where's My Country?" weight="2.8698774267054112">
+        <attvalues>
+          <attvalue for="2" value="-0.023715115159135935" />
+          <attvalue for="3" value="-0.08905485105766675" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="House of Bush, House of Saud" target="The Bushes" weight="4.513932043466956">
+        <attvalues>
+          <attvalue for="2" value="-0.02164769165556346" />
+          <attvalue for="3" value="-0.3636753147168381" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="House of Bush, House of Saud" target="Big Lies" weight="0.2978208755721239">
+        <attvalues>
+          <attvalue for="2" value="-0.022830214533976267" />
+          <attvalue for="3" value="-0.065367050463915" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="House of Bush, House of Saud" target="The Lies of George W. Bush" weight="0.23585933553613275">
+        <attvalues>
+          <attvalue for="2" value="-0.022845920470737635" />
+          <attvalue for="3" value="0.135477869002411" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="House of Bush, House of Saud" target="Worse Than Watergate" weight="0.19491848114349034">
+        <attvalues>
+          <attvalue for="2" value="-0.022849383259253342" />
+          <attvalue for="3" value="0.24454936547721462" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="House of Bush, House of Saud" target="Plan of Attack" weight="0.2217113522890978">
+        <attvalues>
+          <attvalue for="2" value="-0.02284661311697178" />
+          <attvalue for="3" value="0.1767564493989211" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="House of Bush, House of Saud" target="Bush at War" weight="0.18198280162422703">
+        <attvalues>
+          <attvalue for="2" value="-0.022848745570946516" />
+          <attvalue for="3" value="0.05798440512309977" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="House of Bush, House of Saud" target="The New Pearl Harbor" weight="0.19714520141566735">
+        <attvalues>
+          <attvalue for="2" value="-0.022848214835560876" />
+          <attvalue for="3" value="0.18090405984718305" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="House of Bush, House of Saud" target="The Politics of Truth" weight="0.18707903617635907">
+        <attvalues>
+          <attvalue for="2" value="-0.022849482585184377" />
+          <attvalue for="3" value="0.25111695249760535" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="House of Bush, House of Saud" target="The Exception to the Rulers" weight="0.2841688728853381">
+        <attvalues>
+          <attvalue for="2" value="-0.02284860494487173" />
+          <attvalue for="3" value="-0.01781652514344967" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="The Death of Right and Wrong" target="Useful Idiots" weight="2.494730655803497">
+        <attvalues>
+          <attvalue for="2" value="-0.026531025095696936" />
+          <attvalue for="3" value="0.1887280127794546" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="Useful Idiots" target="Bias" weight="0.04039172792906217">
+        <attvalues>
+          <attvalue for="2" value="-0.018916406065376146" />
+          <attvalue for="3" value="0.23988807931188805" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="Useful Idiots" target="Slander" weight="0.03827426319119262">
+        <attvalues>
+          <attvalue for="2" value="-0.018412572123250648" />
+          <attvalue for="3" value="0.18199302966664255" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="Useful Idiots" target="The Savage Nation" weight="0.03993519910648198">
+        <attvalues>
+          <attvalue for="2" value="-0.019302981272862008" />
+          <attvalue for="3" value="0.1712013850095072" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="Useful Idiots" target="Arrogance" weight="2.606192480585169">
+        <attvalues>
+          <attvalue for="2" value="-0.026286729607872816" />
+          <attvalue for="3" value="-0.0012573521334626747" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="The O'Reilly Factor" target="Let Freedom Ring" weight="0.03806029102561879">
+        <attvalues>
+          <attvalue for="2" value="-0.01556602580966504" />
+          <attvalue for="3" value="0.2416419883194717" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="The O'Reilly Factor" target="Those Who Trespass" weight="0.037370155435534534">
+        <attvalues>
+          <attvalue for="2" value="-0.010522351543981845" />
+          <attvalue for="3" value="0.19288649554985327" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="The O'Reilly Factor" target="Bias" weight="0.04414952391876576">
+        <attvalues>
+          <attvalue for="2" value="-0.01650819877492027" />
+          <attvalue for="3" value="0.2566823299100429" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="The O'Reilly Factor" target="Slander" weight="0.041844638370581756">
+        <attvalues>
+          <attvalue for="2" value="-0.016074362156232924" />
+          <attvalue for="3" value="0.32782913747050957" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="The O'Reilly Factor" target="The Savage Nation" weight="0.04467633169261127">
+        <attvalues>
+          <attvalue for="2" value="-0.016126418287277344" />
+          <attvalue for="3" value="0.199264083843393" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="Let Freedom Ring" target="Those Who Trespass" weight="0.039652115658482194">
+        <attvalues>
+          <attvalue for="2" value="-0.014367180829792048" />
+          <attvalue for="3" value="0.0996958122129199" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="Let Freedom Ring" target="Bias" weight="0.041731999411348586">
+        <attvalues>
+          <attvalue for="2" value="-0.01849414361682311" />
+          <attvalue for="3" value="0.23480672236312372" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="Let Freedom Ring" target="Slander" weight="0.040627880511050714">
+        <attvalues>
+          <attvalue for="2" value="-0.01769882458706684" />
+          <attvalue for="3" value="0.23512291251923945" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="Let Freedom Ring" target="The Savage Nation" weight="0.04122542771384716">
+        <attvalues>
+          <attvalue for="2" value="-0.018914480894423935" />
+          <attvalue for="3" value="0.2955224876572624" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="Let Freedom Ring" target="Deliver Us from Evil" weight="2.63695510463858">
+        <attvalues>
+          <attvalue for="2" value="-0.02601474546935778" />
+          <attvalue for="3" value="-0.11704467553074616" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="Let Freedom Ring" target="The Real America" weight="2.551034192012969">
+        <attvalues>
+          <attvalue for="2" value="-0.026055554111223067" />
+          <attvalue for="3" value="-0.05322171082016336" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="Let Freedom Ring" target="Who's Looking Out for You?" weight="2.538878496509497">
+        <attvalues>
+          <attvalue for="2" value="-0.02617798092412449" />
+          <attvalue for="3" value="0.14258130369846533" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="Those Who Trespass" target="Give Me a Break" weight="2.5753938004517583">
+        <attvalues>
+          <attvalue for="2" value="-0.025877103484474473" />
+          <attvalue for="3" value="0.07485513064552174" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="Those Who Trespass" target="Arrogance" weight="2.6228877530277095">
+        <attvalues>
+          <attvalue for="2" value="-0.025966780820169788" />
+          <attvalue for="3" value="-0.05098063922329654" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="Bias" target="Slander" weight="0.035666180266067306">
+        <attvalues>
+          <attvalue for="2" value="-0.020016649540448128" />
+          <attvalue for="3" value="0.350799460198877" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="Bias" target="Arrogance" weight="2.6171543772662025">
+        <attvalues>
+          <attvalue for="2" value="-0.02614982053010384" />
+          <attvalue for="3" value="-0.10819721902166668" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="Slander" target="The Savage Nation" weight="0.036141079347456105">
+        <attvalues>
+          <attvalue for="2" value="-0.019554981120486037" />
+          <attvalue for="3" value="0.337376492135136" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="The Savage Nation" target="Deliver Us from Evil" weight="2.636711830684866">
+        <attvalues>
+          <attvalue for="2" value="-0.026062957911733298" />
+          <attvalue for="3" value="-0.14641490166889515" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="The Savage Nation" target="The Enemy Within" weight="2.531952969627439">
+        <attvalues>
+          <attvalue for="2" value="-0.026160932270881343" />
+          <attvalue for="3" value="0.08269931665222185" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="Deliver Us from Evil" target="Give Me a Break" weight="0.25570199394223064">
+        <attvalues>
+          <attvalue for="2" value="-0.022317031199716286" />
+          <attvalue for="3" value="0.08986533128856533" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="Deliver Us from Evil" target="The Enemy Within" weight="0.3133448183070147">
+        <attvalues>
+          <attvalue for="2" value="-0.022060690643499026" />
+          <attvalue for="3" value="0.05502400684835207" />
+        </attvalues>
+      </edge>
+      <edge id="237" source="Deliver Us from Evil" target="Who's Looking Out for You?" weight="0.2604758285222719">
+        <attvalues>
+          <attvalue for="2" value="-0.022160316388116774" />
+          <attvalue for="3" value="0.10417941822944177" />
+        </attvalues>
+      </edge>
+      <edge id="238" source="Deliver Us from Evil" target="The Official Handbook Vast Right Wing Conspiracy" weight="0.2478812387503621">
+        <attvalues>
+          <attvalue for="2" value="-0.022363875691411517" />
+          <attvalue for="3" value="0.12505691568718946" />
+        </attvalues>
+      </edge>
+      <edge id="239" source="Deliver Us from Evil" target="Arrogance" weight="0.2431443162415811">
+        <attvalues>
+          <attvalue for="2" value="-0.022450921285329883" />
+          <attvalue for="3" value="0.1906255309726801" />
+        </attvalues>
+      </edge>
+      <edge id="240" source="Deliver Us from Evil" target="Why Courage Matters" weight="0.2877263569972857">
+        <attvalues>
+          <attvalue for="2" value="-0.022175969267915763" />
+          <attvalue for="3" value="-0.16685019588081063" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="Deliver Us from Evil" target="Hollywood Interrupted" weight="0.29068122610587815">
+        <attvalues>
+          <attvalue for="2" value="-0.022206995458415868" />
+          <attvalue for="3" value="-0.00019888119984634578" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="Give Me a Break" target="Arrogance" weight="0.2166800777706386">
+        <attvalues>
+          <attvalue for="2" value="-0.022369055055533327" />
+          <attvalue for="3" value="0.17067362344226633" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="Give Me a Break" target="Hollywood Interrupted" weight="0.1505563386744525">
+        <attvalues>
+          <attvalue for="2" value="-0.022518023322821268" />
+          <attvalue for="3" value="0.3328433632528319" />
+        </attvalues>
+      </edge>
+      <edge id="244" source="The Enemy Within" target="The Real America" weight="0.19772128658021207">
+        <attvalues>
+          <attvalue for="2" value="-0.022291864538224626" />
+          <attvalue for="3" value="0.21541140855760532" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="The Enemy Within" target="Arrogance" weight="0.30156707044796455">
+        <attvalues>
+          <attvalue for="2" value="-0.022129232592616344" />
+          <attvalue for="3" value="-0.0030834952329628074" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="The Real America" target="We Will Prevail" weight="0.16127056279889657">
+        <attvalues>
+          <attvalue for="2" value="-0.022407029411890766" />
+          <attvalue for="3" value="-0.0003182889949009393" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="The Official Handbook Vast Right Wing Conspiracy" target="Arrogance" weight="0.23392797802198437">
+        <attvalues>
+          <attvalue for="2" value="-0.02227272840526706" />
+          <attvalue for="3" value="0.1365651780003102" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="Power Plays" target="Arrogance" weight="0.2300841771194925">
+        <attvalues>
+          <attvalue for="2" value="-0.022167878229331306" />
+          <attvalue for="3" value="-0.166691324957567" />
+        </attvalues>
+      </edge>
+      <edge id="249" source="Power Plays" target="Buck Up Suck Up" weight="6.90297464116485">
+        <attvalues>
+          <attvalue for="2" value="-0.018887859653219152" />
+          <attvalue for="3" value="-0.5000000000858451" />
+        </attvalues>
+      </edge>
+      <edge id="250" source="Arrogance" target="Hollywood Interrupted" weight="0.23341923063997522">
+        <attvalues>
+          <attvalue for="2" value="-0.022236827901749967" />
+          <attvalue for="3" value="0.13819860012322205" />
+        </attvalues>
+      </edge>
+      <edge id="251" source="The Perfect Wife" target="The Bushes" weight="0.0005832107144669182">
+        <attvalues>
+          <attvalue for="2" value="-0.18300702362666232" />
+          <attvalue for="3" value="0.12492794730321632" />
+        </attvalues>
+      </edge>
+      <edge id="252" source="The Perfect Wife" target="The Faith of George W Bush" weight="0.0002501625131916187">
+        <attvalues>
+          <attvalue for="2" value="-0.1867274695043455" />
+          <attvalue for="3" value="0.22446357496955693" />
+        </attvalues>
+      </edge>
+      <edge id="253" source="The Bushes" target="The Faith of George W Bush" weight="0.0005836515994448076">
+        <attvalues>
+          <attvalue for="2" value="-0.18280315210750642" />
+          <attvalue for="3" value="-0.16263165450579375" />
+        </attvalues>
+      </edge>
+      <edge id="254" source="The Bushes" target="Rise of the Vulcans" weight="2.752875032582858">
+        <attvalues>
+          <attvalue for="2" value="-0.01275290362086623" />
+          <attvalue for="3" value="-0.27900745016546913" />
+        </attvalues>
+      </edge>
+      <edge id="255" source="The Bushes" target="American Dynasty" weight="4.590918054422181">
+        <attvalues>
+          <attvalue for="2" value="-0.021666858753653484" />
+          <attvalue for="3" value="-0.4716489133816655" />
+        </attvalues>
+      </edge>
+      <edge id="256" source="The Bushes" target="Plan of Attack" weight="4.510998665435509">
+        <attvalues>
+          <attvalue for="2" value="-0.021646117592444503" />
+          <attvalue for="3" value="-0.2693481544507037" />
+        </attvalues>
+      </edge>
+      <edge id="257" source="Things Worth Fighting For" target="Rise of the Vulcans" weight="5.316274422232724">
+        <attvalues>
+          <attvalue for="2" value="-0.022329320318291046" />
+          <attvalue for="3" value="-0.19240022423022918" />
+        </attvalues>
+      </edge>
+      <edge id="258" source="Surprise, Security, the American Experience" target="Allies" weight="0.054327518885828756">
+        <attvalues>
+          <attvalue for="2" value="-0.016132777738092408" />
+          <attvalue for="3" value="0.19985367447084013" />
+        </attvalues>
+      </edge>
+      <edge id="259" source="Surprise, Security, the American Experience" target="Rise of the Vulcans" weight="0.0636481562696215">
+        <attvalues>
+          <attvalue for="2" value="-0.0165267157491078" />
+          <attvalue for="3" value="0.12699979175328768" />
+        </attvalues>
+      </edge>
+      <edge id="260" source="Surprise, Security, the American Experience" target="America Unbound" weight="0.07006341237402261">
+        <attvalues>
+          <attvalue for="2" value="-0.01584310500138275" />
+          <attvalue for="3" value="0.11086660015362926" />
+        </attvalues>
+      </edge>
+      <edge id="261" source="Surprise, Security, the American Experience" target="The Choice" weight="0.0792556384675669">
+        <attvalues>
+          <attvalue for="2" value="-0.01567760299659504" />
+          <attvalue for="3" value="0.09502510280390031" />
+        </attvalues>
+      </edge>
+      <edge id="262" source="Surprise, Security, the American Experience" target="Colossus" weight="0.07715191446900252">
+        <attvalues>
+          <attvalue for="2" value="-0.015578229700093482" />
+          <attvalue for="3" value="0.1997391404499722" />
+        </attvalues>
+      </edge>
+      <edge id="263" source="Allies" target="Rise of the Vulcans" weight="0.06336282642616778">
+        <attvalues>
+          <attvalue for="2" value="-0.01626696566729824" />
+          <attvalue for="3" value="-0.001323602146684033" />
+        </attvalues>
+      </edge>
+      <edge id="264" source="Allies" target="America Unbound" weight="0.07063953330251542">
+        <attvalues>
+          <attvalue for="2" value="-0.015359633687336727" />
+          <attvalue for="3" value="-0.11226354322735155" />
+        </attvalues>
+      </edge>
+      <edge id="265" source="Why Courage Matters" target="Plan of Attack" weight="8.27074061184635">
+        <attvalues>
+          <attvalue for="2" value="-0.024005933480967023" />
+          <attvalue for="3" value="-0.5848024602243675" />
+        </attvalues>
+      </edge>
+      <edge id="266" source="We Will Prevail" target="The Faith of George W Bush" weight="3.8433904879622243">
+        <attvalues>
+          <attvalue for="2" value="-0.02676974350450423" />
+          <attvalue for="3" value="-0.12509926385000236" />
+        </attvalues>
+      </edge>
+      <edge id="267" source="Rise of the Vulcans" target="America Unbound" weight="0.07459783748201851">
+        <attvalues>
+          <attvalue for="2" value="-0.016092904476482817" />
+          <attvalue for="3" value="0.09341926369113907" />
+        </attvalues>
+      </edge>
+      <edge id="268" source="Rise of the Vulcans" target="The Choice" weight="0.07475306178725202">
+        <attvalues>
+          <attvalue for="2" value="-0.01616142178173252" />
+          <attvalue for="3" value="0.14148577026601794" />
+        </attvalues>
+      </edge>
+      <edge id="269" source="Rise of the Vulcans" target="Soft Power" weight="0.06443751025895438">
+        <attvalues>
+          <attvalue for="2" value="-0.01649387821187953" />
+          <attvalue for="3" value="0.08596137664968284" />
+        </attvalues>
+      </edge>
+      <edge id="270" source="Rise of the Vulcans" target="Colossus" weight="0.08851303431930789">
+        <attvalues>
+          <attvalue for="2" value="-0.015731939715947885" />
+          <attvalue for="3" value="-0.038814670739948154" />
+        </attvalues>
+      </edge>
+      <edge id="271" source="Rise of the Vulcans" target="Bush at War" weight="4.817440759681804">
+        <attvalues>
+          <attvalue for="2" value="-0.023653735893787387" />
+          <attvalue for="3" value="-0.29138637796568734" />
+        </attvalues>
+      </edge>
+      <edge id="272" source="Rise of the Vulcans" target="Disarming Iraq" weight="0.06426025799124503">
+        <attvalues>
+          <attvalue for="2" value="-0.016545214817294207" />
+          <attvalue for="3" value="0.045415324526707934" />
+        </attvalues>
+      </edge>
+      <edge id="273" source="Downsize This!" target="Stupid White Men" weight="0.015118591066001899">
+        <attvalues>
+          <attvalue for="2" value="-0.13527822275415047" />
+          <attvalue for="3" value="0.3829686619038253" />
+        </attvalues>
+      </edge>
+      <edge id="274" source="Downsize This!" target="Rush Limbaugh Is a Big Fat Idiot" weight="1.8553851957120078">
+        <attvalues>
+          <attvalue for="2" value="-0.004636024740688693" />
+          <attvalue for="3" value="-0.12568322694874867" />
+        </attvalues>
+      </edge>
+      <edge id="275" source="Downsize This!" target="The Best Democracy Money Can Buy" weight="0.01510295966348254">
+        <attvalues>
+          <attvalue for="2" value="-0.1353752879180068" />
+          <attvalue for="3" value="0.29935776733138475" />
+        </attvalues>
+      </edge>
+      <edge id="276" source="Downsize This!" target="The Culture of Fear" weight="0.015033442469793646">
+        <attvalues>
+          <attvalue for="2" value="-0.1356901957978882" />
+          <attvalue for="3" value="0.4247555356110615" />
+        </attvalues>
+      </edge>
+      <edge id="277" source="Downsize This!" target="Dude, Where's My Country?" weight="0.015562391228843283">
+        <attvalues>
+          <attvalue for="2" value="-0.1325949408683058" />
+          <attvalue for="3" value="0.015960901521161253" />
+        </attvalues>
+      </edge>
+      <edge id="278" source="Stupid White Men" target="The Best Democracy Money Can Buy" weight="0.0065865185337172245">
+        <attvalues>
+          <attvalue for="2" value="-0.12887181183569263" />
+          <attvalue for="3" value="0.49424104579464156" />
+        </attvalues>
+      </edge>
+      <edge id="279" source="Stupid White Men" target="The Culture of Fear" weight="0.006803733913311226">
+        <attvalues>
+          <attvalue for="2" value="-0.12513078839850822" />
+          <attvalue for="3" value="0.37195357944694274" />
+        </attvalues>
+      </edge>
+      <edge id="280" source="Stupid White Men" target="Bushwhacked" weight="2.882646797097492">
+        <attvalues>
+          <attvalue for="2" value="-0.023698804067896706" />
+          <attvalue for="3" value="-0.21760419354172278" />
+        </attvalues>
+      </edge>
+      <edge id="281" source="Stupid White Men" target="Lies and the Lying Liars Who Tell Them" weight="2.815293873333202">
+        <attvalues>
+          <attvalue for="2" value="-0.023774407755712712" />
+          <attvalue for="3" value="-0.10809992862584883" />
+        </attvalues>
+      </edge>
+      <edge id="282" source="Stupid White Men" target="Dude, Where's My Country?" weight="0.00735950117358648">
+        <attvalues>
+          <attvalue for="2" value="-0.1167230818356002" />
+          <attvalue for="3" value="0.16427066118993405" />
+        </attvalues>
+      </edge>
+      <edge id="283" source="Rush Limbaugh Is a Big Fat Idiot" target="Lies and the Lying Liars Who Tell Them" weight="3.08014592730402">
+        <attvalues>
+          <attvalue for="2" value="-0.027510221208597585" />
+          <attvalue for="3" value="-0.09161526400255493" />
+        </attvalues>
+      </edge>
+      <edge id="284" source="Rush Limbaugh Is a Big Fat Idiot" target="We're Right They're Wrong" weight="0.04909759759719898">
+        <attvalues>
+          <attvalue for="2" value="-0.09273822929053521" />
+          <attvalue for="3" value="-0.000848334045063126" />
+        </attvalues>
+      </edge>
+      <edge id="285" source="Rush Limbaugh Is a Big Fat Idiot" target="Shrub" weight="0.04453223113840613">
+        <attvalues>
+          <attvalue for="2" value="-0.09274080688956432" />
+          <attvalue for="3" value="0.14945475101064365" />
+        </attvalues>
+      </edge>
+      <edge id="286" source="The Best Democracy Money Can Buy" target="The Culture of Fear" weight="0.00676635501424515">
+        <attvalues>
+          <attvalue for="2" value="-0.12576430351807555" />
+          <attvalue for="3" value="0.37481354141785506" />
+        </attvalues>
+      </edge>
+      <edge id="287" source="The Best Democracy Money Can Buy" target="Bushwhacked" weight="2.882790660864289">
+        <attvalues>
+          <attvalue for="2" value="-0.023702422320683647" />
+          <attvalue for="3" value="-0.2187467859791603" />
+        </attvalues>
+      </edge>
+      <edge id="288" source="The Best Democracy Money Can Buy" target="Dude, Where's My Country?" weight="0.007386582117601627">
+        <attvalues>
+          <attvalue for="2" value="-0.11632690829146575" />
+          <attvalue for="3" value="0.16648104222511262" />
+        </attvalues>
+      </edge>
+      <edge id="289" source="The Best Democracy Money Can Buy" target="Thieves in High Places" weight="2.8682222546272276">
+        <attvalues>
+          <attvalue for="2" value="-0.023687668829293962" />
+          <attvalue for="3" value="-0.1255494515027542" />
+        </attvalues>
+      </edge>
+      <edge id="290" source="The Culture of Fear" target="Dude, Where's My Country?" weight="0.007610163336571693">
+        <attvalues>
+          <attvalue for="2" value="-0.1132519495437363" />
+          <attvalue for="3" value="0.041532642496430405" />
+        </attvalues>
+      </edge>
+      <edge id="291" source="America Unbound" target="The Choice" weight="0.07416734132577699">
+        <attvalues>
+          <attvalue for="2" value="-0.01690319645060967" />
+          <attvalue for="3" value="0.3248993454678515" />
+        </attvalues>
+      </edge>
+      <edge id="292" source="America Unbound" target="The Great Unraveling" weight="4.949304754783345">
+        <attvalues>
+          <attvalue for="2" value="-0.023653875888823617" />
+          <attvalue for="3" value="-0.40570239170070677" />
+        </attvalues>
+      </edge>
+      <edge id="293" source="America Unbound" target="Rogue Nation" weight="0.13773849109205816">
+        <attvalues>
+          <attvalue for="2" value="-0.014340032637300215" />
+          <attvalue for="3" value="0.024572305995838484" />
+        </attvalues>
+      </edge>
+      <edge id="294" source="America Unbound" target="Soft Power" weight="0.07080774848610062">
+        <attvalues>
+          <attvalue for="2" value="-0.01576533243755618" />
+          <attvalue for="3" value="0.1386647349701231" />
+        </attvalues>
+      </edge>
+      <edge id="295" source="America Unbound" target="Colossus" weight="0.08123161010423006">
+        <attvalues>
+          <attvalue for="2" value="-0.017368874989615257" />
+          <attvalue for="3" value="0.2102997066405209" />
+        </attvalues>
+      </edge>
+      <edge id="296" source="America Unbound" target="The Sorrows of Empire" weight="4.824319737882296">
+        <attvalues>
+          <attvalue for="2" value="-0.023650093472513012" />
+          <attvalue for="3" value="-0.21449381365834141" />
+        </attvalues>
+      </edge>
+      <edge id="297" source="The Choice" target="Rogue Nation" weight="0.13779049242496466">
+        <attvalues>
+          <attvalue for="2" value="-0.014395241072591825" />
+          <attvalue for="3" value="0.011767855569245311" />
+        </attvalues>
+      </edge>
+      <edge id="298" source="The Choice" target="Soft Power" weight="0.0707703259009155">
+        <attvalues>
+          <attvalue for="2" value="-0.015816915408721766" />
+          <attvalue for="3" value="0.10691759439548099" />
+        </attvalues>
+      </edge>
+      <edge id="299" source="The Choice" target="Colossus" weight="0.0837329146449638">
+        <attvalues>
+          <attvalue for="2" value="-0.017294514840607844" />
+          <attvalue for="3" value="0.2712604385718109" />
+        </attvalues>
+      </edge>
+      <edge id="300" source="The Choice" target="Disarming Iraq" weight="0.070904848668763">
+        <attvalues>
+          <attvalue for="2" value="-0.015866608316689845" />
+          <attvalue for="3" value="0.012832002334860926" />
+        </attvalues>
+      </edge>
+      <edge id="301" source="The Great Unraveling" target="Rogue Nation" weight="4.971176672048314">
+        <attvalues>
+          <attvalue for="2" value="-0.023615821515415414" />
+          <attvalue for="3" value="-0.36913301156281086" />
+        </attvalues>
+      </edge>
+      <edge id="302" source="The Great Unraveling" target="The Sorrows of Empire" weight="0.2861794207110228">
+        <attvalues>
+          <attvalue for="2" value="-0.02283583978343451" />
+          <attvalue for="3" value="0.06768257019640544" />
+        </attvalues>
+      </edge>
+      <edge id="303" source="The Great Unraveling" target="American Dynasty" weight="0.25999704623774256">
+        <attvalues>
+          <attvalue for="2" value="-0.02283805418610152" />
+          <attvalue for="3" value="0.1569681188770662" />
+        </attvalues>
+      </edge>
+      <edge id="304" source="The Great Unraveling" target="Big Lies" weight="0.25304752389073837">
+        <attvalues>
+          <attvalue for="2" value="-0.02283795937994193" />
+          <attvalue for="3" value="0.1205876789064746" />
+        </attvalues>
+      </edge>
+      <edge id="305" source="The Great Unraveling" target="The Lies of George W. Bush" weight="0.31609210733015336">
+        <attvalues>
+          <attvalue for="2" value="-0.022839871931022993" />
+          <attvalue for="3" value="0.01901573286229241" />
+        </attvalues>
+      </edge>
+      <edge id="306" source="The Great Unraveling" target="Plan of Attack" weight="0.31193946332674116">
+        <attvalues>
+          <attvalue for="2" value="-0.022837105820923354" />
+          <attvalue for="3" value="-0.0848382068542799" />
+        </attvalues>
+      </edge>
+      <edge id="307" source="The Great Unraveling" target="The Bubble of American Supremacy" weight="0.27042022578029984">
+        <attvalues>
+          <attvalue for="2" value="-0.02283612268919044" />
+          <attvalue for="3" value="0.06454124188949384" />
+        </attvalues>
+      </edge>
+      <edge id="308" source="The Great Unraveling" target="Bushwhacked" weight="0.2511335989559515">
+        <attvalues>
+          <attvalue for="2" value="-0.022835228205632996" />
+          <attvalue for="3" value="0.11503510053392918" />
+        </attvalues>
+      </edge>
+      <edge id="309" source="The Great Unraveling" target="Disarming Iraq" weight="4.94202523335084">
+        <attvalues>
+          <attvalue for="2" value="-0.02367699961775438" />
+          <attvalue for="3" value="-0.18792702641582837" />
+        </attvalues>
+      </edge>
+      <edge id="310" source="The Great Unraveling" target="Lies and the Lying Liars Who Tell Them" weight="0.22765994941260478">
+        <attvalues>
+          <attvalue for="2" value="-0.0228232020342356" />
+          <attvalue for="3" value="0.05518906100653731" />
+        </attvalues>
+      </edge>
+      <edge id="311" source="The Great Unraveling" target="The Buying of the President 2004" weight="0.2442847596310322">
+        <attvalues>
+          <attvalue for="2" value="-0.022837842499035643" />
+          <attvalue for="3" value="0.08467903648134512" />
+        </attvalues>
+      </edge>
+      <edge id="312" source="The Great Unraveling" target="Perfectly Legal" weight="0.23162851132613047">
+        <attvalues>
+          <attvalue for="2" value="-0.02283678638621489" />
+          <attvalue for="3" value="0.11775331290579127" />
+        </attvalues>
+      </edge>
+      <edge id="313" source="The Great Unraveling" target="Hegemony or Survival" weight="0.296882225588542">
+        <attvalues>
+          <attvalue for="2" value="-0.022835672510996607" />
+          <attvalue for="3" value="0.03153096623196028" />
+        </attvalues>
+      </edge>
+      <edge id="314" source="The Great Unraveling" target="Had Enough?" weight="0.238268357737056">
+        <attvalues>
+          <attvalue for="2" value="-0.02277796860320369" />
+          <attvalue for="3" value="-0.025396337007356884" />
+        </attvalues>
+      </edge>
+      <edge id="315" source="The Great Unraveling" target="What Liberal Media?" weight="0.2693940233802122">
+        <attvalues>
+          <attvalue for="2" value="-0.022811546034148034" />
+          <attvalue for="3" value="-0.02420694867789175" />
+        </attvalues>
+      </edge>
+      <edge id="316" source="The Great Unraveling" target="The Clinton Wars" weight="0.2840514096489915">
+        <attvalues>
+          <attvalue for="2" value="-0.02282684263970136" />
+          <attvalue for="3" value="-0.0015963727827523755" />
+        </attvalues>
+      </edge>
+      <edge id="317" source="The Great Unraveling" target="Dude, Where's My Country?" weight="2.8482343404597845">
+        <attvalues>
+          <attvalue for="2" value="-0.023729979474780283" />
+          <attvalue for="3" value="-0.03329922117198936" />
+        </attvalues>
+      </edge>
+      <edge id="318" source="The Great Unraveling" target="Thieves in High Places" weight="0.2862701969535754">
+        <attvalues>
+          <attvalue for="2" value="-0.02283104113263823" />
+          <attvalue for="3" value="-0.05994635633034795" />
+        </attvalues>
+      </edge>
+      <edge id="319" source="Rogue Nation" target="The Future of Freedom" weight="0.0828071819508874">
+        <attvalues>
+          <attvalue for="2" value="-0.0153163184953653" />
+          <attvalue for="3" value="0.08332236273678073" />
+        </attvalues>
+      </edge>
+      <edge id="320" source="Rogue Nation" target="Empire" weight="0.07769358356056444">
+        <attvalues>
+          <attvalue for="2" value="-0.01852977249918797" />
+          <attvalue for="3" value="0.16553661186667556" />
+        </attvalues>
+      </edge>
+      <edge id="321" source="Soft Power" target="Against All Enemies" weight="4.900479022582049">
+        <attvalues>
+          <attvalue for="2" value="-0.02367872552143524" />
+          <attvalue for="3" value="-0.30014381570110693" />
+        </attvalues>
+      </edge>
+      <edge id="322" source="Colossus" target="Empire" weight="0.1423738651632949">
+        <attvalues>
+          <attvalue for="2" value="-0.014315672159822324" />
+          <attvalue for="3" value="-0.10002955913444311" />
+        </attvalues>
+      </edge>
+      <edge id="323" source="The Sorrows of Empire" target="Against All Enemies" weight="0.27207095030172795">
+        <attvalues>
+          <attvalue for="2" value="-0.022845509134947317" />
+          <attvalue for="3" value="0.021285449396143408" />
+        </attvalues>
+      </edge>
+      <edge id="324" source="The Sorrows of Empire" target="American Dynasty" weight="0.24849479275593048">
+        <attvalues>
+          <attvalue for="2" value="-0.02284590691026689" />
+          <attvalue for="3" value="0.038474132964729124" />
+        </attvalues>
+      </edge>
+      <edge id="325" source="The Sorrows of Empire" target="Worse Than Watergate" weight="0.2608676795468185">
+        <attvalues>
+          <attvalue for="2" value="-0.022847885250053768" />
+          <attvalue for="3" value="0.042957949337545154" />
+        </attvalues>
+      </edge>
+      <edge id="326" source="The Sorrows of Empire" target="Hegemony or Survival" weight="0.17915979146142588">
+        <attvalues>
+          <attvalue for="2" value="-0.02284537234194195" />
+          <attvalue for="3" value="0.22809435388578925" />
+        </attvalues>
+      </edge>
+      <edge id="327" source="Against All Enemies" target="American Dynasty" weight="0.2531715885690088">
+        <attvalues>
+          <attvalue for="2" value="-0.02284695147157101" />
+          <attvalue for="3" value="0.12130984292733427" />
+        </attvalues>
+      </edge>
+      <edge id="328" source="Against All Enemies" target="Big Lies" weight="0.29106667890724475">
+        <attvalues>
+          <attvalue for="2" value="-0.022832526577041934" />
+          <attvalue for="3" value="-0.021584942879878" />
+        </attvalues>
+      </edge>
+      <edge id="329" source="Against All Enemies" target="The Lies of George W. Bush" weight="0.252302481627797">
+        <attvalues>
+          <attvalue for="2" value="-0.02284596706229136" />
+          <attvalue for="3" value="0.0995214807500222" />
+        </attvalues>
+      </edge>
+      <edge id="330" source="Against All Enemies" target="Worse Than Watergate" weight="0.20095708182968042">
+        <attvalues>
+          <attvalue for="2" value="-0.022850116722904934" />
+          <attvalue for="3" value="0.2624438677430375" />
+        </attvalues>
+      </edge>
+      <edge id="331" source="Against All Enemies" target="Plan of Attack" weight="0.2161755325917325">
+        <attvalues>
+          <attvalue for="2" value="-0.022847860888401073" />
+          <attvalue for="3" value="0.11158168122846968" />
+        </attvalues>
+      </edge>
+      <edge id="332" source="Against All Enemies" target="Bush at War" weight="0.2319515795910166">
+        <attvalues>
+          <attvalue for="2" value="-0.022846211369347724" />
+          <attvalue for="3" value="-0.014486973168296613" />
+        </attvalues>
+      </edge>
+      <edge id="333" source="Against All Enemies" target="The New Pearl Harbor" weight="0.2209448398797326">
+        <attvalues>
+          <attvalue for="2" value="-0.022847366619409115" />
+          <attvalue for="3" value="0.13232406365379523" />
+        </attvalues>
+      </edge>
+      <edge id="334" source="Against All Enemies" target="Bushwomen" weight="0.24863799302588072">
+        <attvalues>
+          <attvalue for="2" value="-0.02284740926220996" />
+          <attvalue for="3" value="0.09658313754137715" />
+        </attvalues>
+      </edge>
+      <edge id="335" source="Against All Enemies" target="The Bubble of American Supremacy" weight="0.24550267065149414">
+        <attvalues>
+          <attvalue for="2" value="-0.022843764730234417" />
+          <attvalue for="3" value="0.09877723464434296" />
+        </attvalues>
+      </edge>
+      <edge id="336" source="Against All Enemies" target="Living History" weight="0.3400824624145116">
+        <attvalues>
+          <attvalue for="2" value="-0.022833759528791964" />
+          <attvalue for="3" value="-0.08399499059163928" />
+        </attvalues>
+      </edge>
+      <edge id="337" source="Against All Enemies" target="The Politics of Truth" weight="0.20847157855126103">
+        <attvalues>
+          <attvalue for="2" value="-0.02284882676192601" />
+          <attvalue for="3" value="0.21293987862890107" />
+        </attvalues>
+      </edge>
+      <edge id="338" source="Against All Enemies" target="Fanatics and Fools" weight="0.25446604749894836">
+        <attvalues>
+          <attvalue for="2" value="-0.022844699812031077" />
+          <attvalue for="3" value="0.1119417466609326" />
+        </attvalues>
+      </edge>
+      <edge id="339" source="American Dynasty" target="Big Lies" weight="0.2723771911529899">
+        <attvalues>
+          <attvalue for="2" value="-0.022832322481040723" />
+          <attvalue for="3" value="0.09889753645451449" />
+        </attvalues>
+      </edge>
+      <edge id="340" source="American Dynasty" target="The Lies of George W. Bush" weight="0.23714135310323248">
+        <attvalues>
+          <attvalue for="2" value="-0.022846754745866615" />
+          <attvalue for="3" value="0.21684056538754504" />
+        </attvalues>
+      </edge>
+      <edge id="341" source="American Dynasty" target="Worse Than Watergate" weight="0.24981211541706014">
+        <attvalues>
+          <attvalue for="2" value="-0.022846712358143284" />
+          <attvalue for="3" value="0.21004655225438018" />
+        </attvalues>
+      </edge>
+      <edge id="342" source="American Dynasty" target="Plan of Attack" weight="0.27093849492779715">
+        <attvalues>
+          <attvalue for="2" value="-0.022846533100741695" />
+          <attvalue for="3" value="0.07084027677481686" />
+        </attvalues>
+      </edge>
+      <edge id="343" source="American Dynasty" target="The New Pearl Harbor" weight="0.2747384456900267">
+        <attvalues>
+          <attvalue for="2" value="-0.02284565126837701" />
+          <attvalue for="3" value="0.07579637360591363" />
+        </attvalues>
+      </edge>
+      <edge id="344" source="American Dynasty" target="Bushwomen" weight="0.2520538400147626">
+        <attvalues>
+          <attvalue for="2" value="-0.022846960543441375" />
+          <attvalue for="3" value="0.12737243444719915" />
+        </attvalues>
+      </edge>
+      <edge id="345" source="American Dynasty" target="The Bubble of American Supremacy" weight="0.2517616485890481">
+        <attvalues>
+          <attvalue for="2" value="-0.022845334757167324" />
+          <attvalue for="3" value="0.08566724661674452" />
+        </attvalues>
+      </edge>
+      <edge id="346" source="American Dynasty" target="The Politics of Truth" weight="0.2568631771018621">
+        <attvalues>
+          <attvalue for="2" value="-0.022846180422483986" />
+          <attvalue for="3" value="0.144919935544513" />
+        </attvalues>
+      </edge>
+      <edge id="347" source="American Dynasty" target="Bushwhacked" weight="0.2716411352185466">
+        <attvalues>
+          <attvalue for="2" value="-0.022831597861803443" />
+          <attvalue for="3" value="0.07797526643925723" />
+        </attvalues>
+      </edge>
+      <edge id="348" source="American Dynasty" target="Disarming Iraq" weight="4.940985660200152">
+        <attvalues>
+          <attvalue for="2" value="-0.023675134358714045" />
+          <attvalue for="3" value="-0.263870106961283" />
+        </attvalues>
+      </edge>
+      <edge id="349" source="American Dynasty" target="Lies and the Lying Liars Who Tell Them" weight="0.3119480866589621">
+        <attvalues>
+          <attvalue for="2" value="-0.02282086851362841" />
+          <attvalue for="3" value="-0.07032726794476396" />
+        </attvalues>
+      </edge>
+      <edge id="350" source="American Dynasty" target="MoveOn's 50 Ways to Love Your Country" weight="0.2994590072345814">
+        <attvalues>
+          <attvalue for="2" value="-0.022844377630013568" />
+          <attvalue for="3" value="-0.005952670952094508" />
+        </attvalues>
+      </edge>
+      <edge id="351" source="American Dynasty" target="The Buying of the President 2004" weight="0.255696836745848">
+        <attvalues>
+          <attvalue for="2" value="-0.022842269568572382" />
+          <attvalue for="3" value="0.1034261587910249" />
+        </attvalues>
+      </edge>
+      <edge id="352" source="American Dynasty" target="Perfectly Legal" weight="0.2746203478906088">
+        <attvalues>
+          <attvalue for="2" value="-0.02283886041212102" />
+          <attvalue for="3" value="0.08226642534674744" />
+        </attvalues>
+      </edge>
+      <edge id="353" source="American Dynasty" target="Hegemony or Survival" weight="0.2722491716050682">
+        <attvalues>
+          <attvalue for="2" value="-0.022841983891864093" />
+          <attvalue for="3" value="-0.004692910274388229" />
+        </attvalues>
+      </edge>
+      <edge id="354" source="American Dynasty" target="The Exception to the Rulers" weight="0.27629418529362826">
+        <attvalues>
+          <attvalue for="2" value="-0.022848046270671052" />
+          <attvalue for="3" value="0.08001754864970079" />
+        </attvalues>
+      </edge>
+      <edge id="355" source="American Dynasty" target="Freethinkers" weight="0.24567158293296745">
+        <attvalues>
+          <attvalue for="2" value="-0.0228463396611025" />
+          <attvalue for="3" value="0.07456896113125278" />
+        </attvalues>
+      </edge>
+      <edge id="356" source="Big Lies" target="The Lies of George W. Bush" weight="0.2562380740124124">
+        <attvalues>
+          <attvalue for="2" value="-0.02283334595053166" />
+          <attvalue for="3" value="0.16065190179211064" />
+        </attvalues>
+      </edge>
+      <edge id="357" source="Big Lies" target="Worse Than Watergate" weight="0.2715030490642196">
+        <attvalues>
+          <attvalue for="2" value="-0.022830000136724315" />
+          <attvalue for="3" value="0.11534362677607513" />
+        </attvalues>
+      </edge>
+      <edge id="358" source="Big Lies" target="The Politics of Truth" weight="0.24891108804032783">
+        <attvalues>
+          <attvalue for="2" value="-0.022829623239925434" />
+          <attvalue for="3" value="0.14782165022806748" />
+        </attvalues>
+      </edge>
+      <edge id="359" source="Big Lies" target="Fanatics and Fools" weight="0.24241914088129657">
+        <attvalues>
+          <attvalue for="2" value="-0.022832360522264672" />
+          <attvalue for="3" value="0.1419248033663656" />
+        </attvalues>
+      </edge>
+      <edge id="360" source="Big Lies" target="Bushwhacked" weight="0.2177940636066947">
+        <attvalues>
+          <attvalue for="2" value="-0.02284316187946067" />
+          <attvalue for="3" value="0.25145111037941215" />
+        </attvalues>
+      </edge>
+      <edge id="361" source="Big Lies" target="Lies and the Lying Liars Who Tell Them" weight="0.2316450401618478">
+        <attvalues>
+          <attvalue for="2" value="-0.022831935627012134" />
+          <attvalue for="3" value="0.15342255460730225" />
+        </attvalues>
+      </edge>
+      <edge id="362" source="Big Lies" target="Perfectly Legal" weight="0.26956048787516584">
+        <attvalues>
+          <attvalue for="2" value="-0.022830429821181664" />
+          <attvalue for="3" value="0.08107094918989655" />
+        </attvalues>
+      </edge>
+      <edge id="363" source="Big Lies" target="Freethinkers" weight="0.24784480789923632">
+        <attvalues>
+          <attvalue for="2" value="-0.022829647647431672" />
+          <attvalue for="3" value="0.047336166469896246" />
+        </attvalues>
+      </edge>
+      <edge id="364" source="Big Lies" target="Had Enough?" weight="0.24659139348480877">
+        <attvalues>
+          <attvalue for="2" value="-0.02278543360829799" />
+          <attvalue for="3" value="0.04671043720389245" />
+        </attvalues>
+      </edge>
+      <edge id="365" source="Big Lies" target="It's Still the Economy, Stupid!" weight="3.10917693142178">
+        <attvalues>
+          <attvalue for="2" value="-0.027483601573047522" />
+          <attvalue for="3" value="-0.07172687374335984" />
+        </attvalues>
+      </edge>
+      <edge id="366" source="Big Lies" target="We're Right They're Wrong" weight="3.1169011366702337">
+        <attvalues>
+          <attvalue for="2" value="-0.02762110802032347" />
+          <attvalue for="3" value="-0.22215418798969466" />
+        </attvalues>
+      </edge>
+      <edge id="367" source="Big Lies" target="What Liberal Media?" weight="0.260513349961008">
+        <attvalues>
+          <attvalue for="2" value="-0.02281770676563477" />
+          <attvalue for="3" value="0.11733289744525" />
+        </attvalues>
+      </edge>
+      <edge id="368" source="Big Lies" target="The Clinton Wars" weight="0.28248516207258123">
+        <attvalues>
+          <attvalue for="2" value="-0.022824305431346614" />
+          <attvalue for="3" value="0.04611783426811156" />
+        </attvalues>
+      </edge>
+      <edge id="369" source="Big Lies" target="Weapons of Mass Deception" weight="0.29639798827333025">
+        <attvalues>
+          <attvalue for="2" value="-0.022834547272989614" />
+          <attvalue for="3" value="0.010862505768358233" />
+        </attvalues>
+      </edge>
+      <edge id="370" source="Big Lies" target="Dude, Where's My Country?" weight="2.8691927206659265">
+        <attvalues>
+          <attvalue for="2" value="-0.023720762969365428" />
+          <attvalue for="3" value="-0.0308343484075162" />
+        </attvalues>
+      </edge>
+      <edge id="371" source="Big Lies" target="Thieves in High Places" weight="0.23615706430509908">
+        <attvalues>
+          <attvalue for="2" value="-0.02284032596228247" />
+          <attvalue for="3" value="0.13581122764252573" />
+        </attvalues>
+      </edge>
+      <edge id="372" source="The Lies of George W. Bush" target="Worse Than Watergate" weight="0.2254273220856436">
+        <attvalues>
+          <attvalue for="2" value="-0.022846501612024284" />
+          <attvalue for="3" value="0.2632250529893537" />
+        </attvalues>
+      </edge>
+      <edge id="373" source="The Lies of George W. Bush" target="The New Pearl Harbor" weight="0.22742092970049638">
+        <attvalues>
+          <attvalue for="2" value="-0.022844890299501763" />
+          <attvalue for="3" value="0.1660896788707661" />
+        </attvalues>
+      </edge>
+      <edge id="374" source="The Lies of George W. Bush" target="Bushwomen" weight="0.20655334678649992">
+        <attvalues>
+          <attvalue for="2" value="-0.022846390574054576" />
+          <attvalue for="3" value="0.24838502971820264" />
+        </attvalues>
+      </edge>
+      <edge id="375" source="The Lies of George W. Bush" target="The Politics of Truth" weight="0.21851102249501503">
+        <attvalues>
+          <attvalue for="2" value="-0.022846236103040374" />
+          <attvalue for="3" value="0.2535411764698201" />
+        </attvalues>
+      </edge>
+      <edge id="376" source="The Lies of George W. Bush" target="Bushwhacked" weight="0.25983244593198046">
+        <attvalues>
+          <attvalue for="2" value="-0.022832784887496516" />
+          <attvalue for="3" value="0.13424112385221254" />
+        </attvalues>
+      </edge>
+      <edge id="377" source="The Lies of George W. Bush" target="MoveOn's 50 Ways to Love Your Country" weight="0.23664958986260898">
+        <attvalues>
+          <attvalue for="2" value="-0.02284461266468618" />
+          <attvalue for="3" value="0.14093562069138166" />
+        </attvalues>
+      </edge>
+      <edge id="378" source="The Lies of George W. Bush" target="The Buying of the President 2004" weight="0.28238365032453216">
+        <attvalues>
+          <attvalue for="2" value="-0.02284110346171908" />
+          <attvalue for="3" value="0.07912554200359978" />
+        </attvalues>
+      </edge>
+      <edge id="379" source="The Lies of George W. Bush" target="The Exception to the Rulers" weight="0.23216307792417293">
+        <attvalues>
+          <attvalue for="2" value="-0.022847572560576568" />
+          <attvalue for="3" value="0.21188899607619271" />
+        </attvalues>
+      </edge>
+      <edge id="380" source="The Lies of George W. Bush" target="Weapons of Mass Deception" weight="0.25611446057964726">
+        <attvalues>
+          <attvalue for="2" value="-0.022843525974272527" />
+          <attvalue for="3" value="0.13276320976837375" />
+        </attvalues>
+      </edge>
+      <edge id="381" source="The Lies of George W. Bush" target="Dude, Where's My Country?" weight="2.9211975512226354">
+        <attvalues>
+          <attvalue for="2" value="-0.02368036860184386" />
+          <attvalue for="3" value="-0.10466920392507828" />
+        </attvalues>
+      </edge>
+      <edge id="382" source="Worse Than Watergate" target="Plan of Attack" weight="0.21649582834781617">
+        <attvalues>
+          <attvalue for="2" value="-0.022847469102413864" />
+          <attvalue for="3" value="0.17403209861650004" />
+        </attvalues>
+      </edge>
+      <edge id="383" source="Worse Than Watergate" target="Bush at War" weight="0.21544909044554486">
+        <attvalues>
+          <attvalue for="2" value="-0.02284742406215967" />
+          <attvalue for="3" value="-0.027081314738767626" />
+        </attvalues>
+      </edge>
+      <edge id="384" source="Worse Than Watergate" target="The New Pearl Harbor" weight="0.20994796189032136">
+        <attvalues>
+          <attvalue for="2" value="-0.022847732499866824" />
+          <attvalue for="3" value="0.1871542568073249" />
+        </attvalues>
+      </edge>
+      <edge id="385" source="Worse Than Watergate" target="Bushwomen" weight="0.22024976503758617">
+        <attvalues>
+          <attvalue for="2" value="-0.022848452070461267" />
+          <attvalue for="3" value="0.24381178361014222" />
+        </attvalues>
+      </edge>
+      <edge id="386" source="Worse Than Watergate" target="The Politics of Truth" weight="0.19240258048785347">
+        <attvalues>
+          <attvalue for="2" value="-0.02284944706763614" />
+          <attvalue for="3" value="0.3099820866093089" />
+        </attvalues>
+      </edge>
+      <edge id="387" source="Worse Than Watergate" target="Fanatics and Fools" weight="0.24114952870205655">
+        <attvalues>
+          <attvalue for="2" value="-0.022844554615081503" />
+          <attvalue for="3" value="0.21134851787668263" />
+        </attvalues>
+      </edge>
+      <edge id="388" source="Worse Than Watergate" target="Bushwhacked" weight="0.2986037978066981">
+        <attvalues>
+          <attvalue for="2" value="-0.02283104200731101" />
+          <attvalue for="3" value="0.014473988505265711" />
+        </attvalues>
+      </edge>
+      <edge id="389" source="Worse Than Watergate" target="The Exception to the Rulers" weight="0.2602561519322295">
+        <attvalues>
+          <attvalue for="2" value="-0.02284856668772761" />
+          <attvalue for="3" value="0.12282675001758248" />
+        </attvalues>
+      </edge>
+      <edge id="390" source="Worse Than Watergate" target="Freethinkers" weight="0.2241671411931307">
+        <attvalues>
+          <attvalue for="2" value="-0.022846235937697967" />
+          <attvalue for="3" value="0.12485402043811389" />
+        </attvalues>
+      </edge>
+      <edge id="391" source="Plan of Attack" target="Bush at War" weight="0.19538705908061121">
+        <attvalues>
+          <attvalue for="2" value="-0.022844230975991753" />
+          <attvalue for="3" value="0.05313298815841816" />
+        </attvalues>
+      </edge>
+      <edge id="392" source="Plan of Attack" target="The Politics of Truth" weight="0.18195429615406494">
+        <attvalues>
+          <attvalue for="2" value="-0.022848106115104017" />
+          <attvalue for="3" value="0.2665045778791201" />
+        </attvalues>
+      </edge>
+      <edge id="393" source="Plan of Attack" target="Fanatics and Fools" weight="0.22021505126055974">
+        <attvalues>
+          <attvalue for="2" value="-0.022846252636005815" />
+          <attvalue for="3" value="0.17678877509939883" />
+        </attvalues>
+      </edge>
+      <edge id="394" source="Plan of Attack" target="Bushwhacked" weight="0.2660406644504601">
+        <attvalues>
+          <attvalue for="2" value="-0.022830054446958625" />
+          <attvalue for="3" value="-0.016656754547559993" />
+        </attvalues>
+      </edge>
+      <edge id="395" source="Plan of Attack" target="Lies and the Lying Liars Who Tell Them" weight="0.2916573017102102">
+        <attvalues>
+          <attvalue for="2" value="-0.022818539769470236" />
+          <attvalue for="3" value="-0.042485134667112234" />
+        </attvalues>
+      </edge>
+      <edge id="396" source="Bushwomen" target="Bushwhacked" weight="0.26696685172984014">
+        <attvalues>
+          <attvalue for="2" value="-0.022831974839741864" />
+          <attvalue for="3" value="0.06306371599162586" />
+        </attvalues>
+      </edge>
+      <edge id="397" source="Bushwomen" target="The Exception to the Rulers" weight="0.21099703524524524">
+        <attvalues>
+          <attvalue for="2" value="-0.02284768176142471" />
+          <attvalue for="3" value="0.24157794681885403" />
+        </attvalues>
+      </edge>
+      <edge id="398" source="Bushwomen" target="Thieves in High Places" weight="0.2526013808822482">
+        <attvalues>
+          <attvalue for="2" value="-0.022825573579834835" />
+          <attvalue for="3" value="0.0828698784068651" />
+        </attvalues>
+      </edge>
+      <edge id="399" source="Living History" target="Bushwhacked" weight="0.24656191432661662">
+        <attvalues>
+          <attvalue for="2" value="-0.02282494547694114" />
+          <attvalue for="3" value="0.04834098962558675" />
+        </attvalues>
+      </edge>
+      <edge id="400" source="Living History" target="Lies and the Lying Liars Who Tell Them" weight="0.2187905591761128">
+        <attvalues>
+          <attvalue for="2" value="-0.022817466819209375" />
+          <attvalue for="3" value="0.071267255443348" />
+        </attvalues>
+      </edge>
+      <edge id="401" source="Living History" target="The Clinton Wars" weight="0.1748428237944877">
+        <attvalues>
+          <attvalue for="2" value="-0.022841153873126574" />
+          <attvalue for="3" value="0.29129618874995544" />
+        </attvalues>
+      </edge>
+      <edge id="402" source="The Politics of Truth" target="Bushwhacked" weight="0.2695540266476971">
+        <attvalues>
+          <attvalue for="2" value="-0.022830205935684855" />
+          <attvalue for="3" value="0.07465588560265024" />
+        </attvalues>
+      </edge>
+      <edge id="403" source="Fanatics and Fools" target="Bushwhacked" weight="0.24048747412689359">
+        <attvalues>
+          <attvalue for="2" value="-0.02283021078361669" />
+          <attvalue for="3" value="0.11998815204378432" />
+        </attvalues>
+      </edge>
+      <edge id="404" source="Fanatics and Fools" target="MoveOn's 50 Ways to Love Your Country" weight="0.2207816647258643">
+        <attvalues>
+          <attvalue for="2" value="-0.022845343854295264" />
+          <attvalue for="3" value="0.187405495744294" />
+        </attvalues>
+      </edge>
+      <edge id="405" source="Fanatics and Fools" target="Thieves in High Places" weight="0.2532611832846247">
+        <attvalues>
+          <attvalue for="2" value="-0.02282908762503344" />
+          <attvalue for="3" value="0.09784609509560815" />
+        </attvalues>
+      </edge>
+      <edge id="406" source="Bushwhacked" target="Lies and the Lying Liars Who Tell Them" weight="0.2200828329506522">
+        <attvalues>
+          <attvalue for="2" value="-0.02283662868336922" />
+          <attvalue for="3" value="0.19702087331005047" />
+        </attvalues>
+      </edge>
+      <edge id="407" source="Bushwhacked" target="MoveOn's 50 Ways to Love Your Country" weight="0.2700570728415079">
+        <attvalues>
+          <attvalue for="2" value="-0.02283077463083627" />
+          <attvalue for="3" value="0.029464027191700604" />
+        </attvalues>
+      </edge>
+      <edge id="408" source="Bushwhacked" target="The Buying of the President 2004" weight="0.2440985511865598">
+        <attvalues>
+          <attvalue for="2" value="-0.022828513704358677" />
+          <attvalue for="3" value="0.07562798100356571" />
+        </attvalues>
+      </edge>
+      <edge id="409" source="Bushwhacked" target="Perfectly Legal" weight="0.23931986674378936">
+        <attvalues>
+          <attvalue for="2" value="-0.02282738699125253" />
+          <attvalue for="3" value="0.11179402903170987" />
+        </attvalues>
+      </edge>
+      <edge id="410" source="Bushwhacked" target="It's Still the Economy, Stupid!" weight="3.122008100116628">
+        <attvalues>
+          <attvalue for="2" value="-0.027482529039392523" />
+          <attvalue for="3" value="-0.1474606569232959" />
+        </attvalues>
+      </edge>
+      <edge id="411" source="Bushwhacked" target="What Liberal Media?" weight="0.2448014332627867">
+        <attvalues>
+          <attvalue for="2" value="-0.022834909050381658" />
+          <attvalue for="3" value="0.09345113918773995" />
+        </attvalues>
+      </edge>
+      <edge id="412" source="Bushwhacked" target="The Clinton Wars" weight="0.2549554358666934">
+        <attvalues>
+          <attvalue for="2" value="-0.022824206923447443" />
+          <attvalue for="3" value="0.0718604019503376" />
+        </attvalues>
+      </edge>
+      <edge id="413" source="Bushwhacked" target="Dude, Where's My Country?" weight="2.881183600508457">
+        <attvalues>
+          <attvalue for="2" value="-0.023677285503000967" />
+          <attvalue for="3" value="-0.007723163036062797" />
+        </attvalues>
+      </edge>
+      <edge id="414" source="Bushwhacked" target="Thieves in High Places" weight="0.23708380607659676">
+        <attvalues>
+          <attvalue for="2" value="-0.02284180777352751" />
+          <attvalue for="3" value="0.21801557182464604" />
+        </attvalues>
+      </edge>
+      <edge id="415" source="Bushwhacked" target="Shrub" weight="3.1243203353037377">
+        <attvalues>
+          <attvalue for="2" value="-0.027605911953975326" />
+          <attvalue for="3" value="-0.029481342776394026" />
+        </attvalues>
+      </edge>
+      <edge id="416" source="Lies and the Lying Liars Who Tell Them" target="Perfectly Legal" weight="0.22441678654207162">
+        <attvalues>
+          <attvalue for="2" value="-0.022814692125879832" />
+          <attvalue for="3" value="0.11674529651302268" />
+        </attvalues>
+      </edge>
+      <edge id="417" source="Lies and the Lying Liars Who Tell Them" target="Had Enough?" weight="0.19722862990097823">
+        <attvalues>
+          <attvalue for="2" value="-0.022788361660909695" />
+          <attvalue for="3" value="0.06737337747693883" />
+        </attvalues>
+      </edge>
+      <edge id="418" source="Lies and the Lying Liars Who Tell Them" target="The Clinton Wars" weight="0.21291462874998818">
+        <attvalues>
+          <attvalue for="2" value="-0.022814192292757385" />
+          <attvalue for="3" value="0.11876156804539129" />
+        </attvalues>
+      </edge>
+      <edge id="419" source="Lies and the Lying Liars Who Tell Them" target="Thieves in High Places" weight="0.2702326827524808">
+        <attvalues>
+          <attvalue for="2" value="-0.022838838360852654" />
+          <attvalue for="3" value="0.10990641786320277" />
+        </attvalues>
+      </edge>
+      <edge id="420" source="Lies and the Lying Liars Who Tell Them" target="Shrub" weight="3.074341636579261">
+        <attvalues>
+          <attvalue for="2" value="-0.027517678922806654" />
+          <attvalue for="3" value="0.056979685647042144" />
+        </attvalues>
+      </edge>
+      <edge id="421" source="MoveOn's 50 Ways to Love Your Country" target="Weapons of Mass Deception" weight="0.1850395282761779">
+        <attvalues>
+          <attvalue for="2" value="-0.02284760971257227" />
+          <attvalue for="3" value="0.2955770257970546" />
+        </attvalues>
+      </edge>
+      <edge id="422" source="The Buying of the President 2004" target="Perfectly Legal" weight="0.14725568238269443">
+        <attvalues>
+          <attvalue for="2" value="-0.02284422231462413" />
+          <attvalue for="3" value="0.39899846715075515" />
+        </attvalues>
+      </edge>
+      <edge id="423" source="Hegemony or Survival" target="The Exception to the Rulers" weight="0.2625950375107523">
+        <attvalues>
+          <attvalue for="2" value="-0.022842984057463323" />
+          <attvalue for="3" value="0.07440075505211752" />
+        </attvalues>
+      </edge>
+      <edge id="424" source="Hegemony or Survival" target="Dude, Where's My Country?" weight="2.917886011729919">
+        <attvalues>
+          <attvalue for="2" value="-0.023688495559847533" />
+          <attvalue for="3" value="-0.041848264358812504" />
+        </attvalues>
+      </edge>
+      <edge id="425" source="The Exception to the Rulers" target="Weapons of Mass Deception" weight="0.22913253986647308">
+        <attvalues>
+          <attvalue for="2" value="-0.02284364319043153" />
+          <attvalue for="3" value="0.21106171884462288" />
+        </attvalues>
+      </edge>
+      <edge id="426" source="The Exception to the Rulers" target="Thieves in High Places" weight="0.2687851298948219">
+        <attvalues>
+          <attvalue for="2" value="-0.022824790637691494" />
+          <attvalue for="3" value="0.062060941779226386" />
+        </attvalues>
+      </edge>
+      <edge id="427" source="Had Enough?" target="It's Still the Economy, Stupid!" weight="3.0427495018873887">
+        <attvalues>
+          <attvalue for="2" value="-0.02754733747106264" />
+          <attvalue for="3" value="0.2074609217720218" />
+        </attvalues>
+      </edge>
+      <edge id="428" source="Had Enough?" target="Dude, Where's My Country?" weight="2.7286052586721676">
+        <attvalues>
+          <attvalue for="2" value="-0.023792984383718796" />
+          <attvalue for="3" value="0.025535785848912362" />
+        </attvalues>
+      </edge>
+      <edge id="429" source="Had Enough?" target="Buck Up Suck Up" weight="3.043148815881615">
+        <attvalues>
+          <attvalue for="2" value="-0.02756244218336601" />
+          <attvalue for="3" value="-0.1429332777444019" />
+        </attvalues>
+      </edge>
+      <edge id="430" source="It's Still the Economy, Stupid!" target="We're Right They're Wrong" weight="0.027338811343368578">
+        <attvalues>
+          <attvalue for="2" value="-0.0692801145064672" />
+          <attvalue for="3" value="0.2313113095165793" />
+        </attvalues>
+      </edge>
+      <edge id="431" source="It's Still the Economy, Stupid!" target="What Liberal Media?" weight="3.008277453526852">
+        <attvalues>
+          <attvalue for="2" value="-0.02770515995848477" />
+          <attvalue for="3" value="0.13046216925445053" />
+        </attvalues>
+      </edge>
+      <edge id="432" source="It's Still the Economy, Stupid!" target="Shrub" weight="0.033489951461125274">
+        <attvalues>
+          <attvalue for="2" value="-0.07284813273014779" />
+          <attvalue for="3" value="0.1711196511431049" />
+        </attvalues>
+      </edge>
+      <edge id="433" source="It's Still the Economy, Stupid!" target="Buck Up Suck Up" weight="0.01943709525052242">
+        <attvalues>
+          <attvalue for="2" value="-0.06170709090594517" />
+          <attvalue for="3" value="-0.0002605841745151327" />
+        </attvalues>
+      </edge>
+      <edge id="434" source="We're Right They're Wrong" target="Buck Up Suck Up" weight="0.022209384031734884">
+        <attvalues>
+          <attvalue for="2" value="-0.07242324325385385" />
+          <attvalue for="3" value="0.12035227536038773" />
+        </attvalues>
+      </edge>
+      <edge id="435" source="What Liberal Media?" target="The Clinton Wars" weight="0.15116280524495646">
+        <attvalues>
+          <attvalue for="2" value="-0.02281155786059652" />
+          <attvalue for="3" value="0.32418093946306936" />
+        </attvalues>
+      </edge>
+      <edge id="436" source="What Liberal Media?" target="Thieves in High Places" weight="0.22275029828964488">
+        <attvalues>
+          <attvalue for="2" value="-0.022833705081152678" />
+          <attvalue for="3" value="0.11669568487489168" />
+        </attvalues>
+      </edge>
+      <edge id="437" source="Weapons of Mass Deception" target="Thieves in High Places" weight="0.22218311781134248">
+        <attvalues>
+          <attvalue for="2" value="-0.0228258667556549" />
+          <attvalue for="3" value="0.11545565267318336" />
+        </attvalues>
+      </edge>
+      <edge id="438" source="Dude, Where's My Country?" target="Thieves in High Places" weight="2.8668256334382014">
+        <attvalues>
+          <attvalue for="2" value="-0.023672623504952695" />
+          <attvalue for="3" value="0.07949745225351679" />
+        </attvalues>
+      </edge>
+      <edge id="439" source="Thieves in High Places" target="Shrub" weight="3.074653822702945">
+        <attvalues>
+          <attvalue for="2" value="-0.027898436808355687" />
+          <attvalue for="3" value="0.013501602983450711" />
+        </attvalues>
+      </edge>
+      <edge id="440" source="The Future of Freedom" target="Empire" weight="0.06500389474491705">
+        <attvalues>
+          <attvalue for="2" value="-0.0159708851181799" />
+          <attvalue for="3" value="0.4166354212775839" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
